@@ -1,0 +1,1201 @@
+gender,branch,ssc_cgpa,hsc_cgpa,ug_cgpa,workexp,num_of_projects,num_of_global_certifications,status,github_acc,github_repo
+Female,EEE,9.24,8.4,8.824,Yes,2,2,Placed,Yes,2
+Male,CSE,9.26,9.1,9.306,Yes,2,2,Placed,Yes,2
+Female,IT,9.37,8.41,8.564,Yes,5,4,Placed,Yes,5
+Male,MECHANICAL,8.6,9.06,9.359,No,3,,Not Placed,Yes,3
+Female,EEE,8.41,9.76,8.035,Yes,4,2,Placed,Yes,4
+Male,CSE,9.4,9.3,9.119,Yes,2,1,Placed,Yes,2
+Female,CIVIL,9.3,7.87,8.932,Yes,3,2,Placed,Yes,3
+Female,CSE,9.96,9.54,8.712,No,2,1,Not Placed,Yes,2
+Male,CSE,9.1,9.49,8.003,Yes,4,4,Placed,Yes,4
+Female,CSE,8.67,9.11,9.4,Yes,3,4,Placed,Yes,3
+Female,EEE,8.2,7.87,8.745,No,,0,Not Placed,No,0
+Female,CSE,9.16,9.46,7.926,,2,3,Placed,Yes,2
+Female,ECE,8.6,9.91,8.942,Yes,4,3,Placed,Yes,4
+Female,CSE,9.45,8.6,7.759,Yes,,2,Placed,Yes,
+Male,EEE,8.03,8.31,8.461,No,1,2,Not Placed,Yes,1
+Male,ECE,8.15,9.7,8.467,No,3,1,Not Placed,Yes,3
+Female,CSE,9.41,9.11,9.065,Yes,3,5,Placed,Yes,3
+Female,CSE,9.35,8.37,8.708,Yes,2,3,Placed,Yes,2
+Female,CSE,8.61,8.56,8.496,No,,2,Placed,Yes,
+Female,IT,8.94,8.93,8.512,No,2,,Not Placed,No,0
+Female,CSE,9.3,9.31,8.468,Yes,2,5,Placed,Yes,2
+Male,CSE,7.8,8.4,8.243,Yes,0,3,Not Placed,No,0
+Female,EEE,9.78,7.9,9.045,Yes,4,2,Placed,Yes,4
+Male,CSE,6.9,9.13,8.296,Yes,3,3,Not Placed,Yes,3
+Female,ECE,7.8,8.8,9.4,Yes,4,2,Placed,Yes,4
+Male,ECE,8.77,9.14,7.957,Yes,2,3,Placed,Yes,2
+Male,CSE,9.68,9.89,8.253,Yes,1,3,Placed,Yes,1
+Female,CSE,8.94,8.5,7.999,No,,1,Not Placed,No,0
+Male,CSE,9.18,9.29,9.339,Yes,2,2,Placed,Yes,2
+Female,CSE,8.3,9.3,9.216,Yes,2,3,Placed,Yes,2
+Female,CSE,9.7,8.8,8.25,Yes,2,3,Placed,Yes,2
+Female,CSE,9.92,8.32,8.814,Yes,2,7,Placed,Yes,2
+Female,CSE,8.39,8.71,8.626,Yes,2,4,Placed,Yes,2
+Female,CSE,7.2,8.5,7.873,,0,3,Not Placed,No,0
+Female,EEE,9.23,7.46,8.651,Yes,,3,Placed,Yes,
+Female,MECHANICAL,9.25,8.14,7.899,Yes,,,Placed,Yes,
+Female,CSE,8.19,8.2,8.558,,2,,Placed,Yes,2
+Female,CSE,9.29,9.94,8.216,Yes,3,2,Placed,Yes,3
+Female,IT,9.61,9.89,9.4,Yes,2,2,Not Placed,Yes,2
+Male,IT,9.53,9.44,9.328,Yes,4,3,Placed,Yes,4
+Female,CSE,9.46,7.94,7.762,No,2,7,Not Placed,Yes,2
+Male,CSE,9.97,9.52,8.366,Yes,2,1,Placed,Yes,2
+Male,CSE,8.3,7.45,7.518,Yes,,0,Not Placed,No,0
+Male,MECHANICAL,8.2,8.96,6.844,No,,0,Not Placed,No,0
+Female,ECE,9.78,7.59,8.821,Yes,10,2,Placed,Yes,10
+Female,CSE,9.33,8.7,7.66,No,2,3,Not Placed,Yes,2
+Male,CSE,8.65,9.62,7.928,No,0,,Not Placed,No,0
+Female,IT,9.07,8.49,9.4,No,5,2,Not Placed,Yes,5
+Male,CSE,8.7,9.2,9.389,No,,2,Placed,Yes,
+Male,CSE,8.89,8.4,8.129,No,4,,Placed,Yes,4
+Male,CSE,9.24,8.19,8.862,Yes,3,1,Placed,Yes,3
+Male,CSE,9.47,9,9.115,Yes,3,2,Placed,Yes,3
+Female,CSE,8.25,8.87,8.464,No,2,4,Placed,Yes,2
+Male,CSE,8.34,7.96,7.794,Yes,3,2,Placed,Yes,3
+Male,CSE,7.9,8.59,8.34,Yes,2,3,Placed,Yes,2
+Male,CSE,9.18,8.66,8.336,No,1,,Not Placed,No,0
+Male,CSE,9.7,8.8,9.4,Yes,5,2,Placed,Yes,5
+Female,ECE,9.4,9.41,9.4,Yes,2,3,Placed,Yes,2
+Female,CSE,8.9,8.5,9.191,Yes,7,4,Placed,Yes,7
+Female,EEE,6.6,8.62,8.885,,0,3,Placed,Yes,0
+Female,IT,9.16,9,9.4,Yes,2,2,Placed,Yes,2
+Male,CSE,9.28,8.86,9.4,Yes,3,2,Placed,Yes,3
+Female,CSE,9.48,9.1,9.247,Yes,1,2,Not Placed,Yes,1
+Female,CSE,9.58,9.25,8.153,No,2,6,Placed,Yes,2
+Male,CSE,9.36,7.62,9.197,No,2,4,Placed,Yes,2
+Female,ECE,6.5,8.28,8.952,No,3,3,Not Placed,Yes,3
+Male,CSE,9.49,9.2,9.362,Yes,3,2,Placed,Yes,3
+Male,CSE,6.6,7.91,9.055,Yes,,4,Placed,Yes,
+Female,ECE,10,9,8.336,Yes,2,2,Placed,Yes,2
+Female,CSE,7.9,8.8,9.286,Yes,3,,Placed,Yes,3
+Female,CSE,9.8,7.98,9.4,Yes,2,4,Placed,Yes,2
+Female,CSE,6.9,9.4,7.852,No,2,3,Not Placed,Yes,2
+Male,EEE,9.22,8.55,9.186,No,,,Not Placed,No,0
+Female,CSE,9.61,9.29,9.196,,2,1,Placed,Yes,2
+Female,CSE,9.72,8.19,8.392,No,,0,Placed,No,0
+Female,CSE,9.77,8.56,8.4,Yes,,3,Not Placed,No,0
+Female,ECE,9.32,8.87,8.721,No,1,2,Not Placed,Yes,1
+Female,CSE,9.85,8.6,9.148,Yes,2,3,Placed,Yes,2
+Male,CSE,9.56,8.66,8.263,No,2,5,Placed,Yes,2
+Male,CSE,9.64,6.1,8.368,No,2,1,Placed,Yes,2
+Female,EEE,9.09,8.71,7.623,No,1,,Not Placed,No,0
+Female,EEE,9.44,9.2,8.801,Yes,5,5,Placed,Yes,5
+Female,CSE,8.4,9.16,9.4,Yes,10,2,Placed,Yes,10
+Female,CSE,9.91,9,9.167,Yes,2,2,Placed,Yes,2
+Female,CSE,8.08,8.52,8.406,Yes,4,0,Placed,Yes,4
+Female,MECHANICAL,7.9,8.55,7.466,No,,0,Not Placed,No,0
+Female,CSE,9.73,9.3,9.082,Yes,1,7,Not Placed,Yes,1
+Male,CSE,9,7.96,7.374,,,0,Not Placed,No,0
+Male,CSE,8.62,9.4,8.381,No,3,2,Not Placed,Yes,3
+Male,CSE,9.3,8.4,7.713,Yes,5,3,Placed,Yes,5
+Female,ECE,8.57,8.33,7.992,No,4,0,Not Placed,Yes,4
+Male,CSE,6.9,8.5,9.179,Yes,4,2,Placed,Yes,4
+Female,CSE,8.13,7.84,8.175,No,,0,Not Placed,No,0
+Female,CSE,7.9,8.87,8.403,No,0,,Not Placed,No,0
+Male,CSE,9.57,8.64,8.527,No,,0,Placed,Yes,
+Male,CSE,9.67,8.4,8.214,No,0,3,Not Placed,No,0
+Female,CSE,7.71,9.44,7.84,No,2,2,Not Placed,Yes,2
+Male,ECE,9.35,8.82,8.999,No,1,2,Not Placed,Yes,1
+Female,IT,9.92,9.2,8.732,Yes,2,6,Placed,Yes,2
+Female,CSE,9.96,9.1,9.282,Yes,,3,Placed,Yes,
+Female,IT,9.8,7.9,7.756,No,1,1,Not Placed,Yes,1
+Female,CSE,8.95,8.92,8.131,Yes,2,1,Placed,Yes,2
+Female,ECE,8.9,8.6,8.989,No,2,2,Placed,Yes,2
+Female,MECHANICAL,9.18,9.47,9.158,No,,1,Placed,Yes,
+Male,CSE,9.7,9.1,9.155,Yes,2,3,Placed,Yes,2
+Female,IT,9.7,8.8,8.577,No,3,3,Placed,Yes,3
+Female,IT,9.08,8.6,8.825,No,2,3,Placed,Yes,2
+Female,CSE,8.31,8.73,8.235,No,3,1,Placed,Yes,3
+Male,CSE,8.5,7.67,9.4,No,2,3,Placed,Yes,2
+Male,EEE,9.82,9.45,7.833,No,2,0,Not Placed,Yes,2
+Male,IT,9.6,8.57,8.649,No,0,7,Not Placed,No,0
+Female,CSE,8.6,9.38,7.739,No,1,,Placed,Yes,1
+Female,IT,7.8,8.86,8.16,Yes,2,3,Not Placed,Yes,2
+Female,CSE,9.66,8.9,7.634,No,1,0,Not Placed,Yes,1
+Female,CSE,9.2,9.01,9.307,Yes,2,3,Placed,Yes,2
+Male,CSE,9.76,8.63,8.676,Yes,1,6,Placed,Yes,1
+Female,EEE,9.02,8.65,8.676,No,3,2,Not Placed,Yes,3
+Male,CSE,7.71,9.52,7.948,No,,1,Not Placed,No,0
+Male,CSE,9.6,8.5,8.254,No,2,1,Placed,Yes,2
+Female,CSE,8.77,9.4,7.032,No,2,2,Placed,Yes,2
+Female,CSE,9.7,9,9.378,No,2,,Placed,Yes,2
+Female,CSE,9.71,8.45,8.256,Yes,4,2,Placed,Yes,4
+Male,CSE,9.25,9.3,8.801,Yes,3,5,Placed,Yes,3
+Male,CSE,8.14,9.97,9.4,Yes,2,1,Placed,Yes,2
+Female,CSE,9.06,7.62,9.4,No,3,,Not Placed,Yes,3
+Male,CSE,8.52,8.2,8.835,Yes,2,2,Placed,Yes,2
+Male,CSE,8.5,9.23,8.715,,2,2,Placed,Yes,2
+Female,EEE,8.54,8.96,8.198,No,3,2,Not Placed,Yes,3
+Male,CSE,9.36,8.16,8.199,No,2,4,Not Placed,Yes,2
+Female,CSE,8.77,8.91,8.72,No,6,3,Placed,Yes,6
+Male,CSE,7.17,7.9,8.588,No,,0,Not Placed,No,0
+Male,ECE,9.29,8.8,7.708,Yes,7,,Not Placed,Yes,7
+Female,CSE,8.55,8.95,8.197,No,,0,Not Placed,No,0
+Male,IT,9.98,8.19,9.358,No,1,2,Not Placed,Yes,1
+Female,CSE,8.5,8.49,9.4,Yes,2,5,Placed,Yes,2
+Female,ECE,8.46,9.38,9.156,Yes,3,2,Placed,Yes,3
+Male,CSE,9.36,8.99,7.779,Yes,10,3,Placed,Yes,10
+Male,CSE,8.95,8.3,9.045,No,2,1,Placed,Yes,2
+Male,CSE,9.68,7.7,8.76,No,5,,Not Placed,Yes,5
+Female,IT,9.59,8.1,8.327,No,0,0,Not Placed,No,0
+Female,CSE,9.51,8.8,8.968,No,2,5,Placed,Yes,2
+Female,CSE,8.42,9.76,9.074,Yes,3,3,Not Placed,Yes,3
+Female,CSE,8.59,8.77,7.53,No,1,1,Not Placed,Yes,1
+Male,CSE,9.66,8.4,8.565,No,0,3,Not Placed,No,0
+Female,CSE,7.9,9.17,7.72,No,0,,Not Placed,No,0
+Male,IT,9.53,8.5,8.93,No,5,2,Placed,Yes,5
+Female,EEE,8.72,9.48,8.429,No,,,Not Placed,No,0
+Male,CSE,8.5,9.61,8.01,Yes,1,7,Placed,Yes,1
+Female,CSE,8.9,9.42,8.534,Yes,1,2,Placed,Yes,1
+Female,EEE,8.69,8.58,8.517,Yes,2,3,Placed,Yes,2
+Female,CSE,8.76,8.2,8.359,Yes,,,Not Placed,No,0
+Male,CSE,9.88,8.6,8.469,No,3,2,Placed,Yes,3
+Female,CSE,9.07,8.86,7.486,Yes,0,1,Not Placed,No,0
+Male,CSE,7.9,8.72,9.031,Yes,2,3,Placed,Yes,2
+Female,EEE,8.94,7.92,9.15,No,0,4,Not Placed,Yes,0
+Female,CSE,8.31,8.34,8.079,No,3,1,Not Placed,Yes,3
+Male,CSE,9.48,9.2,7.842,,2,1,Not Placed,Yes,2
+Male,CSE,9.43,9.61,9.159,Yes,4,2,Placed,Yes,4
+Male,CSE,9.12,9.24,8.948,No,1,2,Not Placed,Yes,1
+Female,EEE,9.25,9.1,8.916,Yes,1,4,Not Placed,Yes,1
+Female,CSE,9.69,7.99,8.966,Yes,4,4,Placed,Yes,4
+Female,IT,8.94,8.7,8.324,Yes,0,2,Not Placed,Yes,0
+Female,CSE,9.47,9.1,8.766,Yes,,1,Placed,No,0
+Female,CSE,9.4,9.2,9.194,Yes,2,3,Placed,Yes,2
+Female,CSE,9.37,8.18,9.151,Yes,0,2,Placed,Yes,0
+Male,CSE,9,9.05,7.974,Yes,4,4,Placed,Yes,4
+Male,ECE,9.88,7.67,8.797,No,2,2,Placed,Yes,2
+Female,CSE,9.11,9.35,8.743,Yes,3,1,Not Placed,Yes,3
+Female,CSE,9.08,8.12,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,9.06,8.43,8.452,Yes,2,2,Placed,Yes,2
+Male,CSE,9.74,8.9,8.12,No,0,,Not Placed,No,0
+Female,IT,8.33,8.14,9.229,Yes,1,2,Not Placed,Yes,1
+Male,MECHANICAL,8.4,9.74,7.023,No,,,Not Placed,No,0
+Female,CSE,9.47,8.09,8.548,No,1,3,Not Placed,Yes,1
+Male,ECE,8.71,9.4,8.31,No,4,2,Placed,Yes,4
+Male,CSE,7.2,9.2,7.853,,4,2,Not Placed,Yes,4
+Male,CSE,9.39,9.08,8.034,Yes,1,3,Not Placed,Yes,1
+Female,EEE,9.94,8.99,8.995,Yes,2,2,Not Placed,Yes,2
+Female,CSE,9.29,9.8,8.511,No,0,1,Not Placed,No,0
+Male,CSE,9.4,9.48,8.272,,4,2,Not Placed,Yes,4
+Male,ECE,7.91,9.21,8.32,No,2,1,Placed,Yes,2
+Male,CSE,9.7,9.83,9.293,No,3,2,Placed,Yes,3
+Male,CSE,9.24,8.53,8.703,Yes,0,1,Placed,No,0
+Female,ECE,8.63,8.64,8.545,Yes,6,3,Placed,Yes,6
+Female,ECE,8.76,9.26,8.892,No,,4,Not Placed,No,0
+Female,IT,9.55,8.62,8.872,No,3,2,Not Placed,Yes,3
+Female,ECE,8.7,9.2,8.394,No,5,3,Placed,Yes,5
+Female,ECE,9.35,8.1,8.637,,2,4,Placed,Yes,2
+Female,CSE,9.63,8.51,8.223,No,3,5,Not Placed,Yes,3
+Female,CSE,8.85,9.06,8.596,No,2,2,Not Placed,Yes,2
+Female,CSE,8.96,9.21,8.893,No,7,5,Placed,Yes,7
+Female,CSE,9.44,9.1,8.224,No,2,,Not Placed,Yes,2
+Male,EEE,7.95,7.8,8.949,No,0,,Not Placed,No,0
+Female,CSE,8.21,8.45,8.656,No,,0,Not Placed,No,0
+Female,CSE,8.92,8.17,8.998,Yes,2,,Placed,Yes,2
+Female,CSE,8.91,8.88,9.223,Yes,3,5,Not Placed,Yes,3
+Female,CSE,9.3,9.89,9.4,Yes,4,2,Placed,Yes,4
+Female,CSE,8.5,9.55,8.913,Yes,4,2,Placed,Yes,4
+Female,CSE,8.38,7.88,8.53,No,2,5,Not Placed,Yes,2
+Female,CSE,9.96,9.47,9.326,Yes,2,2,Placed,Yes,2
+Male,EEE,9.57,7.9,8.789,No,2,6,Not Placed,Yes,2
+Female,CSE,8.88,8.25,8.445,Yes,1,2,Placed,Yes,1
+Male,CSE,8.4,8.43,8.012,Yes,2,2,Placed,Yes,2
+Female,CSE,7.8,7.86,8.779,Yes,,5,Placed,Yes,
+Female,CSE,8.93,9.12,8.89,No,2,2,Placed,Yes,2
+Male,CSE,7.9,9.92,8.377,No,3,0,Not Placed,Yes,3
+Male,CSE,9.3,8.7,8.442,Yes,4,2,Placed,Yes,4
+Female,ECE,9.3,8.46,8.151,Yes,2,0,Not Placed,Yes,2
+Female,EEE,9.05,8.12,8.548,No,2,0,Not Placed,Yes,2
+Male,CSE,8.5,8.05,8.975,Yes,2,2,Placed,Yes,2
+Female,CSE,9.97,8.6,9.4,No,,0,Placed,No,0
+Female,CSE,9.36,9.25,9.4,No,3,,Placed,Yes,3
+Male,CSE,8.9,9.71,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,6.66,9.1,7.961,Yes,2,,Placed,Yes,2
+Male,CSE,9.41,8.54,7.78,No,2,2,Placed,Yes,2
+Male,CSE,9.33,9.1,8.647,,2,2,Not Placed,Yes,2
+Male,CSE,9.1,8.4,9.089,No,3,,Placed,Yes,3
+Male,CSE,7.3,9.12,8.623,Yes,0,0,Not Placed,No,0
+Female,CSE,8.36,9.24,6.288,No,0,2,Not Placed,No,0
+Female,CSE,8.76,9.74,8.267,No,2,,Not Placed,Yes,2
+Female,CSE,9.51,9.12,8.513,Yes,3,3,Placed,Yes,3
+Female,CSE,9.59,8.12,8.238,Yes,2,2,Placed,Yes,2
+Male,CSE,9.1,8.65,9.018,Yes,3,2,Placed,Yes,3
+Female,CSE,9.46,9.95,7.425,No,2,0,Not Placed,Yes,2
+Female,EEE,7.82,8.9,8.996,No,0,2,Placed,No,0
+Female,IT,8.85,6.9,9.101,Yes,2,4,Placed,Yes,2
+Male,ECE,9.35,8.6,7.449,Yes,3,3,Not Placed,Yes,3
+Male,MECHANICAL,8.07,7.75,8.499,No,3,3,Not Placed,Yes,3
+Female,CSE,8.58,9.1,7.819,No,,,Not Placed,No,0
+Male,CSE,9.17,8.6,8.693,Yes,2,7,Placed,Yes,2
+Female,CSE,9.07,8,9.277,,4,3,Placed,Yes,4
+Female,CSE,7.84,6.1,8.931,Yes,3,2,Placed,Yes,3
+Female,EEE,9.59,9.74,8.772,No,2,4,Placed,Yes,2
+Female,ECE,9.7,8.3,9.311,Yes,2,2,Placed,Yes,2
+Female,CSE,8.94,9.29,9.4,Yes,2,2,Placed,Yes,2
+Male,CSE,9.14,8.22,8.745,No,1,2,Not Placed,Yes,1
+Male,IT,9.71,9.02,8.532,Yes,2,3,Placed,Yes,2
+Male,CSE,9.48,7.81,9.299,Yes,2,2,Placed,Yes,2
+Female,CSE,8.24,8.4,8.045,Yes,0,1,Not Placed,No,0
+Female,ECE,9.48,9.22,9.04,Yes,3,3,Placed,Yes,3
+Male,CSE,9.21,9.98,8.239,No,2,0,Not Placed,Yes,2
+Male,CSE,8.91,9.04,9.052,No,3,1,Not Placed,Yes,3
+Male,CSE,9.07,9.06,9.266,Yes,2,3,Placed,Yes,2
+Female,CSE,9.36,7.98,8.254,Yes,0,2,Not Placed,No,0
+Male,EEE,9.37,9.41,7.858,Yes,,3,Placed,Yes,
+Female,CSE,9.44,8.6,8.777,No,2,1,Not Placed,Yes,2
+Female,CSE,8.5,8.5,8.735,Yes,,3,Placed,Yes,
+Female,CSE,7.3,8.9,9.4,Yes,1,2,Not Placed,Yes,1
+Male,IT,8.28,8.04,9.011,Yes,3,6,Placed,Yes,3
+Female,CSE,8.1,9.1,7.964,Yes,3,2,Placed,Yes,3
+Female,CSE,8.58,7.99,7.034,No,1,4,Not Placed,Yes,1
+Male,IT,9.14,8.51,9.212,No,,3,Placed,Yes,
+Male,CSE,9.51,9.5,8.703,No,1,3,Not Placed,Yes,1
+Female,EEE,9.34,9.4,8.547,Yes,3,,Placed,Yes,3
+Female,CSE,7.5,8.82,8.089,,2,3,Placed,Yes,2
+Male,CSE,9.07,9.1,8.145,No,2,,Not Placed,Yes,2
+Female,CSE,6.8,8.46,8.202,No,,0,Not Placed,No,0
+Female,EEE,9.68,7.36,8.518,No,2,1,Not Placed,Yes,2
+Male,CSE,8.7,8,8.288,Yes,4,2,Placed,Yes,4
+Male,CSE,9.2,9.11,8.898,No,3,1,Placed,Yes,3
+Male,CSE,6.8,7.8,7.844,No,2,2,Not Placed,Yes,2
+Female,MECHANICAL,9.73,9.6,8.663,Yes,2,2,Not Placed,Yes,2
+Male,CSE,9.72,8.97,8.775,Yes,3,2,Not Placed,Yes,3
+Male,CSE,9.75,9.76,7.701,No,2,2,Not Placed,Yes,2
+Male,CSE,9.29,9.6,8.721,No,1,1,Not Placed,Yes,1
+Female,CSE,7.2,9.1,8.305,No,,,Not Placed,No,0
+Female,CSE,9.16,9.87,9.136,Yes,,5,Placed,Yes,
+Male,CSE,8.3,9.2,8.719,Yes,,3,Placed,Yes,
+Female,CSE,9.69,8.9,9.309,Yes,4,3,Placed,Yes,4
+Female,EEE,9.4,9,8.985,Yes,1,5,Placed,Yes,1
+Male,CSE,9.8,9.88,7.823,No,4,3,Placed,Yes,4
+Female,CSE,8.92,8.6,9.163,Yes,3,3,Placed,Yes,3
+Male,CSE,8.91,9.1,8.701,Yes,2,1,Placed,Yes,2
+Female,CIVIL,8.56,8.4,7.761,Yes,1,2,Placed,Yes,1
+Female,CSE,9.51,9.5,8.656,No,,1,Not Placed,No,
+Female,MECHANICAL,8.73,9.94,8.036,No,2,2,Placed,Yes,2
+Female,CSE,9.2,7.61,7.55,No,1,,Not Placed,Yes,1
+Female,ECE,8.8,8.19,8.396,No,4,2,Not Placed,Yes,4
+Female,CSE,9.17,9.2,9.279,No,3,2,Placed,Yes,3
+Male,ECE,8.5,9.53,8.804,,3,2,Placed,Yes,3
+Female,CSE,9.72,8.65,7.61,No,,0,Not Placed,No,0
+Male,CSE,9,9.71,8.994,Yes,,5,Placed,Yes,
+Female,CSE,9.42,9.65,8.548,Yes,2,3,Placed,Yes,2
+Male,CSE,8.95,8.8,7.801,No,3,2,Placed,Yes,3
+Female,CSE,9.35,9.2,8.254,Yes,1,3,Placed,Yes,1
+Female,CSE,8.48,8.8,9.19,Yes,4,3,Placed,Yes,4
+Male,CSE,8.51,8.4,7.712,No,0,2,Not Placed,No,0
+Male,CSE,9.9,9.72,9.192,Yes,,4,Placed,Yes,
+Female,ECE,9.06,8.93,8.767,No,1,1,Not Placed,Yes,1
+Female,ECE,9.14,8.46,8.371,No,2,0,Not Placed,Yes,2
+Female,CSE,7,8.34,8.485,No,1,0,Not Placed,Yes,1
+Female,CSE,8.73,9.3,8.763,No,2,2,Not Placed,Yes,2
+Female,CSE,8.77,9.12,7.458,No,,1,Not Placed,Yes,
+Male,CSE,8.1,8.92,9.4,Yes,2,6,Placed,Yes,2
+Female,EEE,8.55,7.92,8.628,No,,0,Placed,Yes,
+Male,ECE,8.92,8.65,8.721,No,3,4,Placed,Yes,3
+Male,IT,8.41,7.99,8.452,No,1,2,Not Placed,Yes,1
+Female,CSE,8.94,8.9,9.328,Yes,2,2,Placed,Yes,2
+Female,CSE,7.9,9.31,8.548,Yes,3,,Placed,Yes,3
+Female,CSE,7.98,8.3,7.452,Yes,4,4,Not Placed,Yes,4
+Female,CSE,6.7,9.3,7.986,Yes,2,2,Not Placed,Yes,2
+Male,CSE,8.4,7.89,8.591,Yes,5,5,Placed,Yes,5
+Male,EEE,8.75,8.02,7.484,No,0,5,Not Placed,No,0
+Male,MECHANICAL,6.6,9.95,8.068,Yes,3,0,Placed,Yes,3
+Female,CSE,8.01,8.73,9.223,No,3,2,Placed,Yes,3
+Female,IT,9.1,9.2,8.534,No,2,0,Not Placed,Yes,2
+Female,CSE,7.17,8.39,8.179,No,,2,Not Placed,Yes,
+Male,ECE,9.95,8.67,9.4,No,3,3,Placed,Yes,3
+Female,ECE,9.5,8.96,7.994,,4,,Placed,Yes,4
+Male,CSE,9.21,7.96,8.477,No,,0,Not Placed,Yes,
+Male,CSE,8.6,8.71,8.543,Yes,3,2,Placed,Yes,3
+Male,CSE,8.93,9.35,8.722,No,3,0,Not Placed,Yes,3
+Female,CSE,9.8,9.4,8.453,No,1,3,Placed,Yes,1
+Female,CSE,9.03,8.99,7.726,No,0,3,Not Placed,No,0
+Female,IT,8.79,8.3,8.718,Yes,2,2,Placed,Yes,2
+Female,IT,9.62,9.61,9.349,Yes,3,3,Placed,Yes,3
+Female,MECHANICAL,8.3,8.5,8.507,No,2,3,Placed,Yes,2
+Female,CSE,8.91,9.92,7.672,Yes,2,1,Placed,Yes,2
+Male,CSE,8.02,9.01,9.096,No,3,3,Placed,Yes,3
+Female,CSE,8.66,9,8.508,,2,2,Placed,Yes,2
+Female,CSE,9.62,7.71,8.751,Yes,2,2,Placed,Yes,2
+Male,CSE,6.6,8.51,9.053,No,6,1,Not Placed,Yes,6
+Male,CSE,9.7,8.1,9.083,Yes,3,2,Placed,Yes,3
+Male,CSE,9.8,8.2,8.92,Yes,1,3,Placed,Yes,1
+Female,CSE,7.8,8.4,8.494,Yes,1,2,Not Placed,Yes,1
+Male,CSE,8.76,8.9,6.947,No,,4,Not Placed,Yes,
+Female,CSE,6.6,9.04,7.736,No,2,3,Not Placed,Yes,2
+Male,CSE,9.31,9.7,7.848,Yes,,1,Not Placed,Yes,
+Male,CSE,8.65,9.1,8.98,No,3,2,Placed,Yes,3
+Female,IT,8.79,9,8.629,No,1,2,Not Placed,Yes,1
+Male,CSE,8.57,9.18,8.703,,0,2,Not Placed,No,0
+Male,CSE,8.27,9.56,7.773,Yes,3,3,Placed,Yes,3
+Male,CSE,9.1,8.8,7.963,No,2,,Not Placed,Yes,2
+Male,CSE,8.94,8.6,9,Yes,1,1,Not Placed,Yes,1
+Female,CSE,9.92,8.4,8.541,Yes,2,4,Placed,Yes,2
+Male,CSE,8.97,9.3,8.093,Yes,3,3,Placed,Yes,3
+Female,MECHANICAL,8.85,8.4,9.125,No,2,2,Not Placed,Yes,2
+Female,CSE,8.97,9.12,8.665,Yes,3,2,Placed,Yes,3
+Female,ECE,7.3,8.96,9.011,No,4,0,Not Placed,Yes,4
+Female,CSE,9.87,8.6,8.884,Yes,4,0,Placed,Yes,4
+Female,CSE,8.6,8.7,8.75,Yes,3,2,Placed,Yes,3
+Male,CSE,6.9,8.8,8.309,No,2,2,Not Placed,Yes,2
+Male,CSE,9.34,8.07,8.293,Yes,0,3,Not Placed,No,0
+Male,CSE,9.66,8.4,9.344,Yes,2,3,Placed,Yes,2
+Female,CSE,9.24,8.6,8.952,,7,1,Placed,Yes,7
+Male,EEE,9.47,8.556,9.13,Yes,3,2,Placed,Yes,3
+Female,ECE,8.93,9.47,9.13,Yes,,2,Placed,Yes,
+Female,IT,9.25,9.79,8.421,No,3,2,Placed,Yes,3
+Female,CSE,9.54,9.123,9.4,Yes,3,2,Placed,Yes,3
+Female,CSE,9.63,9.99,7.823,No,2,0,Placed,Yes,2
+Female,ECE,9.58,9.58,7.687,No,1,1,Placed,Yes,1
+Female,CSE,8.57,9.68,9.041,No,2,0,Not Placed,Yes,2
+Female,CSE,8.43,8.567,8.932,Yes,2,2,Placed,Yes,2
+Female,ECE,8.37,7.7,8.371,No,1,1,Not Placed,Yes,1
+Male,ECE,8.52,8.9,9.142,No,4,3,Not Placed,Yes,4
+Male,CSE,9.38,9.39,9.306,No,,,Placed,Yes,
+Female,CSE,9.86,9.55,8.803,Yes,3,2,Placed,Yes,3
+Female,CSE,9.34,8.52,8.486,No,1,1,Not Placed,Yes,1
+Female,IT,8.66,9.12,8.313,No,1,2,Not Placed,Yes,1
+Female,IT,9.71,8.69,9.229,Yes,3,3,Placed,Yes,3
+Male,CSE,8.88,9.74,9.241,No,2,2,Not Placed,Yes,2
+Female,MECHANICAL,9.46,8.9,8.446,No,2,,Not Placed,Yes,2
+Male,CSE,9,9.03,9.041,Yes,3,2,Placed,Yes,3
+Male,ECE,9.6,9.1,9.222,Yes,4,3,Placed,Yes,4
+Male,CSE,8.88,6.79,7.547,No,1,,Not Placed,Yes,1
+Female,CSE,7.4,9.26,8.371,No,2,2,Not Placed,Yes,2
+Male,MECHANICAL,8.9,9.12,8.638,No,3,3,Not Placed,Yes,3
+Male,CSE,8.65,9.39,8.326,No,1,1,Placed,Yes,1
+Male,CSE,9.82,8.57,7.948,No,2,2,Not Placed,Yes,2
+Female,CSE,7.9,8.4,8.775,Yes,,,Placed,Yes,
+Female,CSE,8.04,7.69,8.154,No,1,0,Not Placed,No,0
+Female,CSE,9,8.8,9.09,No,3,,Placed,Yes,3
+Female,CSE,8.89,9.57,7.294,No,4,0,Not Placed,Yes,4
+Female,CSE,9.38,8.2,8.353,No,2,3,Not Placed,Yes,2
+Male,ECE,9.38,8.33,8.902,Yes,3,0,Placed,Yes,3
+Male,CSE,9.3,8.86,8.712,Yes,3,1,Placed,Yes,3
+Female,CSE,7,8.6,8.864,No,2,2,Not Placed,Yes,2
+Female,CSE,9.37,9.16,9.4,Yes,4,3,Placed,Yes,4
+Male,EEE,8.25,9.31,7.179,,,3,Not Placed,No,0
+Male,CSE,6.8,8.83,8.854,No,3,2,Not Placed,Yes,3
+Male,CSE,7.1,8.7,9.149,Yes,2,3,Not Placed,Yes,2
+Female,CSE,8.5,9.6,7.083,Yes,3,6,Not Placed,Yes,3
+Female,ECE,8.76,9.2,7.793,No,2,1,Not Placed,Yes,2
+Female,ECE,8.46,9.31,7.678,No,2,0,Not Placed,Yes,2
+Male,CSE,9.75,9.123,8.049,No,3,2,Placed,Yes,3
+Female,CSE,8.52,8.81,8.83,,2,3,Placed,Yes,2
+Female,CSE,9.53,9.67,9.4,Yes,3,2,Placed,Yes,3
+Male,CSE,9.41,8.12,8.453,Yes,2,2,Placed,Yes,2
+Male,IT,8.68,8.74,7.841,No,2,4,Not Placed,Yes,2
+Male,CSE,8.7,8.48,9.4,Yes,4,2,Placed,Yes,4
+Female,CSE,9.6,8.882,8.811,No,4,4,Not Placed,Yes,4
+Male,CSE,8.85,8.58,8.992,Yes,3,2,Placed,Yes,3
+Female,CSE,9.42,8.31,9.259,No,2,3,Not Placed,Yes,2
+Male,IT,7.97,9.21,7.278,No,1,,Not Placed,Yes,1
+Male,CSE,8.99,7.99,8.477,No,2,0,Not Placed,Yes,2
+Female,IT,9.1,9.2,8.678,No,1,3,Placed,Yes,1
+Female,CIVIL,8.89,7.24,8.977,No,3,0,Not Placed,Yes,3
+Female,CSE,7.83,8.25,8.174,No,2,2,Not Placed,Yes,2
+Female,CSE,9.29,8.97,8.134,No,3,1,Not Placed,Yes,3
+Male,CSE,6.7,9.12,9.325,Yes,2,1,Not Placed,Yes,2
+Female,CSE,8.4,9.05,8.791,No,2,2,Placed,Yes,2
+Female,ECE,8,9.4,9.37,No,2,,Placed,Yes,2
+Male,ECE,7,9.14,8.631,No,0,2,Not Placed,No,0
+Male,CSE,8.73,9.65,7.758,Yes,2,3,Placed,Yes,2
+Male,CSE,7.79,7.91,7.524,Yes,3,4,Placed,Yes,3
+Male,IT,8.83,9.65,9.05,Yes,1,,Not Placed,No,1
+Female,IT,8.8,9.38,7.993,No,5,4,Placed,Yes,5
+Female,CSE,9.89,9.31,9.145,Yes,2,2,Placed,Yes,2
+Female,ECE,8.39,8.45,8.946,No,3,2,Not Placed,Yes,3
+Female,MECHANICAL,6.6,9.52,7.918,No,1,,Not Placed,No,0
+Male,CSE,8.23,8.56,7.96,No,2,0,Not Placed,Yes,2
+Female,CSE,7.2,8.9,9.086,No,1,2,Not Placed,Yes,1
+Female,EEE,8.4,8.76,9.4,No,3,2,Placed,Yes,3
+Male,CSE,9.81,8.52,8.746,Yes,3,2,Not Placed,Yes,3
+Female,CSE,9.13,7.44,8.491,No,2,0,Not Placed,Yes,2
+Female,CSE,9.55,9.95,8.162,No,3,2,Placed,Yes,3
+Female,ECE,8.85,9.29,9.103,No,3,,Placed,Yes,3
+Female,MECHANICAL,8.83,8.5,8.599,Yes,0,2,Not Placed,No,0
+Male,MECHANICAL,8.22,8.33,8.304,No,6,0,Not Placed,Yes,6
+Female,CSE,9.69,9.74,9.335,Yes,3,7,Placed,Yes,3
+Female,CSE,9.49,9.21,7.678,No,,3,Not Placed,Yes,
+Male,CSE,9.4,9.04,8.321,Yes,3,5,Placed,Yes,3
+Female,CSE,9.51,8.67,8.638,Yes,3,3,Placed,Yes,3
+Male,CSE,8.93,8.91,8.531,Yes,,2,Placed,Yes,
+Female,CSE,9.03,9.93,7.966,No,2,3,Not Placed,Yes,2
+Male,CSE,8.73,9.82,9.229,Yes,2,2,Placed,Yes,2
+Male,CSE,8.71,8.56,9.267,Yes,3,3,Placed,Yes,3
+Female,CSE,9.66,8.67,8.102,,2,,Placed,Yes,2
+Female,MECHANICAL,8.77,9.6,7.664,No,1,2,Not Placed,Yes,1
+Female,CSE,9.23,8.16,7.463,Yes,5,2,Placed,Yes,5
+Male,CSE,8.73,8.34,8.521,No,1,0,Not Placed,No,0
+Male,CSE,9.97,9.34,9.149,Yes,2,2,Placed,Yes,2
+Female,IT,7.59,9.15,9.022,No,0,2,Not Placed,No,0
+Female,ECE,8.78,8.7,8.87,No,2,1,Placed,Yes,2
+Male,CSE,9.35,8.6,8.757,No,2,1,Not Placed,Yes,2
+Female,CSE,8.26,8.56,9.033,No,,2,Not Placed,Yes,
+Male,CSE,6.6,8.36,8.185,No,2,0,Not Placed,Yes,2
+Male,CSE,8.6,9.22,8.454,Yes,3,2,Placed,Yes,3
+Female,CSE,8.79,8.35,8.578,No,2,1,Placed,Yes,2
+Female,CSE,8.99,8.13,8.718,Yes,0,0,Placed,No,0
+Female,MECHANICAL,7.9,9.61,9.023,Yes,2,0,Placed,Yes,2
+Male,CSE,9.34,8.7,8.536,Yes,2,2,Placed,Yes,2
+Male,CSE,8.54,8.9,8.429,Yes,3,2,Not Placed,Yes,3
+Female,CSE,6.5,8.6,8.456,No,,2,Not Placed,Yes,
+Female,ECE,9.1,8.84,9.284,Yes,3,2,Placed,Yes,3
+Male,CSE,9.77,9.1,8.264,No,2,2,Placed,Yes,2
+Female,EEE,8.89,8.5,8.119,No,0,3,Placed,No,0
+Male,ECE,8.99,8.4,8.245,Yes,2,3,Not Placed,Yes,2
+Female,ECE,9.87,8.4,8.71,No,1,0,Placed,Yes,1
+Female,CSE,9.93,8.45,8.705,Yes,2,3,Placed,Yes,2
+Female,CSE,9.59,8.13,9.274,Yes,2,2,Placed,Yes,2
+Male,CSE,8,8.45,9.218,Yes,2,4,Not Placed,Yes,2
+Male,ECE,9.05,8.2,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,8.91,9.37,8.21,No,3,,Placed,Yes,3
+Female,CSE,9.89,9.24,7.827,Yes,,0,Placed,Yes,
+Female,CSE,9.44,9.34,9.4,Yes,3,3,Placed,Yes,3
+Female,ECE,9.96,8.4,9.304,Yes,3,4,Placed,Yes,3
+Male,MECHANICAL,9.4,8.87,9.4,,,2,Placed,Yes,
+Male,CSE,9.57,9.86,7.893,Yes,1,1,Not Placed,No,0
+Female,ECE,9.15,9.96,8.568,No,0,,Placed,No,0
+Male,IT,8.7,9.4,7.518,Yes,5,3,Placed,Yes,5
+Female,CSE,9.78,9.7,8.35,Yes,4,3,Placed,Yes,4
+Female,CSE,9.09,6.96,7.781,Yes,6,3,Placed,Yes,6
+Female,EEE,9.43,8.68,8.412,Yes,4,,Placed,Yes,4
+Female,CSE,8.99,8.34,6.91,No,1,1,Not Placed,No,0
+Female,CSE,9.03,8.7,8.558,No,6,2,Placed,Yes,6
+Male,CSE,9,9.62,8.184,Yes,4,2,Placed,Yes,4
+Female,IT,8.34,6.76,8.47,Yes,4,2,Placed,Yes,4
+Female,CSE,8.43,9.79,8.22,No,1,2,Not Placed,Yes,1
+Female,CSE,7,8.45,8.291,No,2,4,Placed,Yes,2
+Female,CSE,9.73,8.67,7.692,No,2,3,Placed,Yes,2
+Female,CSE,8.7,9.08,8.394,Yes,2,2,Placed,Yes,2
+Male,CSE,8.82,8.34,8.876,Yes,3,2,Placed,Yes,3
+Female,CSE,9.4,8.35,8.914,Yes,3,2,Placed,Yes,3
+Female,CSE,8.93,8.42,8.448,Yes,2,4,Placed,Yes,2
+Male,CSE,9.57,8.99,8.679,Yes,3,3,Placed,Yes,3
+Male,IT,9.89,8.73,9.4,Yes,,2,Placed,Yes,
+Male,CSE,7,8.451,8.558,Yes,2,2,Not Placed,Yes,2
+Female,CSE,6.8,8.412,8.87,Yes,3,2,Placed,Yes,3
+Male,CSE,9.4,9.88,9.238,Yes,1,1,Placed,Yes,1
+Female,CSE,8.93,9.69,7.957,Yes,2,2,Not Placed,Yes,2
+Female,CSE,9.69,9.7,8.475,Yes,0,,Placed,No,0
+Male,CSE,8.99,9.4,8.486,,3,4,Placed,Yes,3
+Female,CSE,9.22,9.47,7.542,No,2,0,Not Placed,Yes,2
+Female,CSE,8.65,8.654,8.793,No,,0,Placed,Yes,
+Male,CSE,9.8,6.1,8.973,Yes,6,2,Placed,Yes,6
+Female,CSE,8.53,8.324,8.863,Yes,3,,Placed,Yes,3
+Female,EEE,8.4,9.97,9.152,No,2,2,Placed,Yes,2
+Male,CSE,9.4,8.321,8.319,Yes,2,2,Placed,Yes,2
+Female,CSE,8.93,9.03,7.647,No,3,1,Not Placed,Yes,3
+Male,CSE,8.34,8.97,7.44,,1,4,Not Placed,Yes,1
+Female,IT,9.42,9.36,9.125,Yes,2,2,Placed,Yes,2
+Female,EEE,7.7,8.76,9.352,No,2,,Placed,Yes,2
+Female,CSE,8.56,9.45,8.848,No,,,Not Placed,Yes,
+Female,EEE,9.62,9.04,8.893,No,3,2,Placed,Yes,3
+Female,CSE,8.66,8.45,8.27,No,,3,Not Placed,Yes,
+Female,IT,9.48,8.72,9.159,No,0,2,Not Placed,No,0
+Male,CSE,7.78,7.23,9.353,,2,3,Placed,Yes,2
+Male,EEE,9.31,8.19,9,Yes,1,2,Placed,Yes,1
+Female,EEE,9.1,8.54,8.501,No,2,,Placed,Yes,2
+Male,ECE,9.6,8.61,8.867,No,3,4,Placed,Yes,3
+Male,EEE,9.39,8.79,8.36,No,,,Not Placed,No,0
+Female,IT,8.87,9.29,8.82,No,2,0,Not Placed,Yes,2
+Male,CSE,7.9,8.25,8.389,Yes,2,2,Placed,Yes,2
+Male,CSE,9.33,9.78,8.576,No,2,0,Placed,Yes,2
+Male,CSE,9.5,7.75,8.934,Yes,4,3,Placed,Yes,4
+Female,ECE,9.77,8.56,8.543,No,3,2,Not Placed,Yes,3
+Female,CSE,6.8,9.36,9.081,Yes,3,2,Placed,Yes,3
+Female,CSE,9.38,8.34,8.814,No,3,2,Not Placed,Yes,3
+Female,ECE,9,9.47,9.177,Yes,2,2,Placed,Yes,2
+Male,ECE,8.86,8.45,9.043,Yes,2,5,Placed,Yes,2
+Male,MECHANICAL,8.68,7.33,9.002,Yes,1,4,Placed,Yes,1
+Female,CSE,8.71,9.16,9.011,No,2,1,Not Placed,Yes,2
+Male,CSE,8.38,9.74,8.338,No,4,2,Not Placed,Yes,4
+Female,CSE,7,7.23,8.342,No,2,1,Not Placed,Yes,2
+Male,CSE,8.75,9,8.468,Yes,4,3,Placed,Yes,4
+Male,CSE,7.5,7.8,7.386,No,2,1,Not Placed,Yes,2
+Female,CSE,9.82,7.49,9.037,Yes,2,3,Placed,Yes,2
+Male,CSE,7.9,8.27,6.887,No,1,0,Not Placed,No,0
+Female,ECE,9.72,9.09,9.342,Yes,3,2,Placed,Yes,3
+Male,CSE,8.86,9.88,8.839,Yes,2,3,Placed,Yes,2
+Female,CSE,9.77,8.45,8.307,No,3,2,Not Placed,Yes,3
+Female,EEE,9.96,8.12,7.539,No,0,3,Not Placed,No,0
+Female,CSE,7.3,8.18,7.399,No,,1,Not Placed,Yes,
+Female,CSE,8.38,8.81,9.22,Yes,2,2,Placed,Yes,2
+Male,CSE,6.6,8.86,8.218,No,2,2,Not Placed,Yes,2
+Female,CSE,8.13,8,7.595,No,,0,Not Placed,Yes,
+Female,IT,9.03,8.56,9.137,No,3,6,Placed,Yes,3
+Male,CSE,9.54,8.74,9.164,Yes,3,3,Not Placed,Yes,3
+Male,ECE,9.02,8.76,8.542,No,2,1,Not Placed,Yes,2
+Male,CSE,8.97,8.65,9.072,Yes,3,3,Placed,Yes,3
+Female,MECHANICAL,9.06,8.34,8.573,Yes,2,3,Placed,Yes,2
+Male,CSE,9.67,9.19,8.832,No,3,,Placed,Yes,3
+Male,ECE,9.58,9.3,7.603,No,2,1,Placed,Yes,2
+Female,CSE,9.78,8.8,8.744,Yes,2,3,Placed,Yes,2
+Female,CSE,9.02,7.72,8.91,Yes,2,6,Placed,Yes,2
+Female,CSE,8.5,9.95,9.006,Yes,3,2,Not Placed,Yes,3
+Female,ECE,8.47,8.2,7.432,No,1,2,Not Placed,No,1
+Male,ECE,6.6,8,7.603,Yes,1,2,Not Placed,Yes,1
+Male,CSE,9.87,9.54,7.677,Yes,3,3,Placed,Yes,3
+Male,CSE,8.8,9.14,8.99,Yes,1,3,Placed,Yes,1
+Male,CSE,10,9,9.16,Yes,4,2,Placed,Yes,4
+Male,ECE,9,9.86,8.719,No,2,3,Placed,Yes,2
+Female,CSE,9.5,9.1,9.072,No,2,3,Not Placed,Yes,2
+Male,CSE,9.3,8.56,8.524,No,4,4,Placed,Yes,4
+Male,IT,9.4,8.67,8.536,No,2,3,Not Placed,Yes,2
+Male,CSE,9.88,8.45,8.731,No,3,4,Placed,Yes,3
+Female,CSE,6.6,8.06,9.103,No,2,0,Placed,Yes,2
+Female,CSE,8.94,8.94,8.844,Yes,4,1,Placed,Yes,4
+Male,IT,9.68,8.44,9.357,Yes,2,2,Placed,Yes,2
+Male,CSE,8.4,9.88,8.506,No,4,0,Placed,Yes,4
+Male,CSE,8.6,9.71,8.592,Yes,2,1,Placed,Yes,2
+Female,CSE,7.9,8.8,9.4,Yes,2,1,Not Placed,Yes,2
+Female,EEE,8.9,7.81,9.003,Yes,3,0,Placed,Yes,3
+Female,IT,9.31,8.86,7.595,No,2,1,Not Placed,Yes,2
+Female,CSE,6.9,8.55,9.017,Yes,3,3,Not Placed,Yes,3
+Female,ECE,9.5,9.24,8.131,No,5,0,Not Placed,Yes,5
+Female,CSE,9.5,8.82,9.1,No,4,2,Placed,Yes,4
+Female,CSE,9.3,8.01,9.105,Yes,2,3,Placed,Yes,2
+Male,CSE,9.02,8.72,9.326,Yes,3,5,Placed,Yes,3
+Male,CSE,9.04,9.37,7.258,Yes,3,,Placed,Yes,3
+Male,CSE,9.13,8.4,9.147,Yes,2,3,Placed,Yes,2
+Female,CSE,9.68,9.95,9.4,No,3,2,Placed,Yes,3
+Female,CSE,9.8,9,8.76,No,2,5,Placed,Yes,2
+Female,CSE,9.5,9,8.445,No,3,2,Placed,Yes,3
+Female,MECHANICAL,8.5,9.23,9.191,Yes,2,,Placed,Yes,2
+Female,CSE,8.97,9.83,8.925,No,3,3,Placed,Yes,3
+Female,CSE,8.92,8.96,8.957,Yes,2,2,Placed,Yes,2
+Female,IT,8.2,8.7,7.855,No,4,2,Placed,Yes,4
+Male,CSE,8.43,9.82,8.463,Yes,,3,Placed,Yes,
+Female,CSE,9.8,9.14,8.3,Yes,6,3,Placed,Yes,6
+Female,CSE,7.47,7.95,7.281,No,1,1,Not Placed,No,1
+Male,CSE,9.92,10,8.595,No,2,2,Not Placed,Yes,2
+Female,CSE,7.1,7.59,8.465,No,0,3,Not Placed,No,0
+Male,EEE,9.42,9.08,8.643,Yes,5,3,Placed,Yes,5
+Female,CSE,9.49,8.8,9.324,Yes,3,7,Placed,Yes,3
+Female,CSE,8.32,8.42,8.491,,,1,Not Placed,Yes,
+Female,CSE,8.5,9.39,9.4,Yes,2,2,Placed,Yes,2
+Male,CSE,8.88,9.76,9.19,Yes,3,2,Placed,Yes,3
+Female,CSE,8.7,9.72,8.161,Yes,2,3,Placed,Yes,2
+Female,CSE,7.9,9.36,9.4,No,3,2,Placed,Yes,3
+Female,CSE,9.06,8.12,8.053,Yes,2,2,Not Placed,Yes,2
+Female,CSE,8.9,8.67,8.988,Yes,2,2,Placed,Yes,2
+Male,CSE,7.5,9.24,9.369,Yes,4,3,Not Placed,Yes,4
+Male,IT,8.93,8.72,9.389,No,0,,Not Placed,No,0
+Female,ECE,8.51,9,8.052,No,3,3,Not Placed,Yes,3
+Female,CSE,9.06,8.43,8.297,Yes,3,2,Placed,Yes,2
+Female,CSE,7.88,8.58,7.729,No,1,,Not Placed,No,0
+Male,CSE,9.34,9.15,8.363,Yes,4,2,Not Placed,Yes,4
+Female,EEE,9.03,8.45,8.598,No,,3,Not Placed,Yes,
+Female,IT,8.38,8.15,7.4,No,,3,Not Placed,Yes,
+Female,CSE,9.02,8.6,9.364,,3,3,Placed,Yes,3
+Male,CSE,9.52,8.76,8.913,,,4,Placed,Yes,
+Male,CSE,9.36,7.5,9.078,Yes,2,5,Placed,Yes,2
+Male,CSE,8.7,9.31,7.269,Yes,3,4,Placed,Yes,3
+Female,IT,8.69,9.54,9.4,No,4,2,Placed,Yes,4
+Female,CSE,8.73,9.61,8.954,No,1,3,Placed,No,0
+Male,CSE,8.3,8.45,8.506,Yes,2,3,Placed,Yes,2
+Male,CSE,7.4,9.83,8.442,No,3,,Not Placed,Yes,3
+Male,IT,9.84,7.58,8.419,No,1,1,Not Placed,Yes,1
+Male,CIVIL,9.65,7.7,7.559,No,2,0,Placed,Yes,2
+Female,ECE,8.82,9.12,8.636,No,,,Not Placed,No,0
+Female,ECE,7.4,9.27,9.012,No,3,,Not Placed,Yes,3
+Female,CSE,8.83,9.59,8.754,No,,2,Placed,Yes,
+Male,CSE,8.52,9.5,8.241,Yes,2,3,Placed,Yes,2
+Female,ECE,8.48,9.35,8.394,Yes,2,2,Placed,Yes,2
+Female,CSE,8.55,8.9,8.391,Yes,2,2,Placed,Yes,2
+Male,CSE,9.31,8.9,8.645,Yes,,4,Placed,Yes,
+Male,MECHANICAL,8.85,8.17,8.93,No,,3,Placed,Yes,
+Male,ECE,9.83,9.91,8.109,No,2,,Not Placed,Yes,2
+Female,CSE,8.92,8.7654,7.754,Yes,1,2,Placed,Yes,1
+Male,CSE,9.28,9.08,9.285,No,2,5,Placed,Yes,2
+Male,CSE,8.91,9.85,9.01,Yes,5,3,Placed,Yes,5
+Female,IT,8.98,9.87,8.701,No,0,2,Placed,No,0
+Female,CSE,6.6,9.91,8.254,Yes,3,2,Placed,Yes,3
+Female,CSE,8.89,9.46,7.64,No,4,3,Not Placed,Yes,4
+Male,CSE,9.3,9.98,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,9.89,9.69,8.414,Yes,1,0,Not Placed,No,0
+Male,CSE,8.6,8.67,8.598,No,2,0,Placed,Yes,2
+Female,IT,9.4,9,8.212,No,4,2,Placed,Yes,4
+Female,CSE,9.89,7.99,9.4,Yes,2,2,Not Placed,Yes,2
+Male,CSE,7.9,9.22,8.988,Yes,2,3,Placed,Yes,2
+Female,CSE,9.91,8.14,8.808,Yes,3,2,Placed,Yes,3
+Male,CSE,9.88,8.432,9.047,No,3,3,Placed,Yes,3
+Female,CSE,9.7,8.38,8.745,Yes,4,2,Placed,Yes,4
+Male,CSE,9.98,8.67,9.318,No,2,0,Not Placed,Yes,2
+Female,CSE,9.5,8.56,9.327,Yes,2,3,Placed,Yes,2
+Female,ECE,8.5,8.8,9.088,Yes,2,3,Placed,Yes,2
+Male,CSE,9.48,9.26,8.081,Yes,4,1,Placed,Yes,4
+Female,CSE,9.75,9.85,9.399,No,2,3,Not Placed,Yes,2
+Female,EEE,8.08,8.09,8.829,No,,2,Placed,Yes,
+Female,CSE,8.6,9.11,8.741,Yes,2,3,Placed,Yes,2
+Male,CSE,9.18,9.71,7.947,,3,3,Not Placed,Yes,3
+Female,EEE,8.6,9.86,8.856,Yes,3,4,Placed,Yes,3
+Male,CSE,9.61,9.55,8.715,Yes,3,2,Placed,Yes,3
+Female,CSE,9.93,8.9,8.649,No,,0,Not Placed,Yes,
+Female,CSE,8.52,8.64,8.79,No,3,5,Placed,Yes,3
+Male,EEE,9.83,9.89,8.738,No,0,6,Placed,Yes,0
+Male,CSE,9.51,7.87,8.477,Yes,3,2,Placed,Yes,3
+Female,CSE,8.68,9,9.164,No,,2,Placed,Yes,
+Male,CSE,8,9.5,9.298,Yes,2,3,Placed,Yes,2
+Female,ECE,9.07,9,8.803,Yes,3,1,Placed,Yes,3
+Female,CSE,9,9.5,9.159,Yes,3,6,Placed,Yes,3
+Female,CSE,7.91,9.49,8.253,No,,,Not Placed,Yes,
+Female,CSE,7,8.8,8.244,No,,,Not Placed,Yes,
+Female,CSE,9.78,8.04,8.989,Yes,1,3,Placed,Yes,1
+Female,CSE,8.3,9.77,8.844,Yes,3,3,Placed,Yes,3
+Male,CSE,9.6,8.2,8.333,Yes,4,,Not Placed,Yes,4
+Male,IT,6.9,8.7,8.158,No,3,,Not Placed,Yes,3
+Male,MECHANICAL,8.67,7.82,7.764,No,1,1,Not Placed,No,0
+Female,EEE,9.23,8.24,8.168,No,2,0,Not Placed,Yes,2
+Male,ECE,9.1,9.76,9.276,No,,2,Placed,Yes,
+Male,CSE,9.54,7.14,7.702,Yes,,2,Placed,Yes,
+Female,EEE,7.97,8.93,8.682,No,3,1,Not Placed,Yes,3
+Female,CSE,8.6,8.4,9.246,Yes,0,4,Placed,No,0
+Male,CSE,8.3,8.6,8.688,Yes,3,3,Placed,Yes,3
+Male,CSE,8.91,9,9.116,Yes,3,2,Placed,Yes,3
+Male,CSE,9.6,8.88,8.165,No,5,1,Placed,Yes,5
+Female,CSE,9.3,9.5,8.749,Yes,1,5,Placed,Yes,1
+Male,CSE,9.18,8.22,8.409,No,4,2,Not Placed,Yes,4
+Female,CSE,8.86,7.93,7.681,No,,0,Not Placed,No,0
+Female,IT,9.47,9.5,9.103,Yes,2,2,Placed,Yes,2
+Female,CSE,8.48,8.5,8.232,Yes,2,3,Placed,Yes,2
+Male,CSE,8.5,8.6,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,9.74,9.5,8.916,No,0,4,Placed,Yes,0
+Male,CSE,9.17,7.48,8.731,No,2,2,Placed,Yes,2
+Female,EEE,9.74,9.36,8.778,Yes,,3,Not Placed,Yes,
+Female,CSE,9.75,9.44,8.62,No,3,0,Placed,Yes,3
+Female,EEE,9.9,9.4,8.363,No,1,3,Not Placed,No,0
+Male,CSE,9.79,9.5,9.033,Yes,3,2,Placed,Yes,3
+Male,CSE,9.1,8.93,8.728,Yes,2,4,Placed,Yes,2
+Male,CSE,8.46,8.86,9.4,Yes,4,0,Placed,Yes,4
+Female,CSE,9.35,8.66,7.531,No,1,3,Placed,Yes,1
+Male,CSE,9.82,8.9,8.234,No,0,0,Not Placed,No,0
+Female,ECE,9.33,7.59,8.926,No,4,4,Placed,Yes,4
+Female,CSE,9.83,8.21,8.476,No,3,2,Not Placed,Yes,3
+Male,CSE,9.38,8.46,8.509,No,,,Placed,Yes,
+Female,CSE,8.37,8.65,8.245,Yes,2,3,Placed,Yes,2
+Female,CSE,9.48,9.5,9.097,Yes,3,4,Placed,Yes,3
+Male,CSE,8.7,8.42,8.89,No,2,2,Placed,Yes,2
+Female,CSE,8.88,9.5,8.421,No,2,2,Not Placed,Yes,2
+Male,CSE,8.24,9.04,9.164,Yes,7,2,Placed,Yes,7
+Male,CSE,8.68,8.9,7.415,No,2,1,Not Placed,Yes,2
+Female,CSE,8.45,9.5,8.51,Yes,4,1,Placed,Yes,4
+Female,CSE,8.42,8.46,9.4,Yes,2,,Not Placed,Yes,2
+Female,MECHANICAL,6.6,8.77,9.001,No,2,2,Not Placed,Yes,2
+Female,MECHANICAL,8.75,8.8,8.751,No,2,3,Not Placed,Yes,2
+Male,CSE,9.69,8.5,8.021,,3,2,Placed,Yes,3
+Female,CSE,10,8.4,8.999,Yes,2,4,Placed,Yes,2
+Female,CSE,8.88,7.99,8.123,Yes,1,0,Not Placed,No,0
+Female,CSE,8.54,8.62,8.804,Yes,3,2,Placed,Yes,3
+Female,CSE,7.5,9.5,9.39,Yes,3,2,Placed,Yes,3
+Female,CSE,8.71,8.72,8.233,No,2,0,Not Placed,Yes,2
+Male,IT,9.26,9.8,9.353,Yes,2,2,Placed,Yes,2
+Female,CSE,7.3,9.5,9.101,No,3,2,Not Placed,Yes,3
+Female,ECE,7.26,9.45,9.286,Yes,3,2,Placed,Yes,3
+Male,CSE,9.65,9.12,9.093,Yes,3,,Placed,Yes,3
+Male,CSE,8.94,7.82,7.766,No,,2,Not Placed,No,0
+Male,CSE,9.75,9.34,8.47,Yes,2,2,Placed,Yes,2
+Female,CSE,9.22,9.45,7.285,No,,5,Not Placed,Yes,
+Female,CSE,9.43,8.8,8.78,Yes,2,2,Placed,Yes,2
+Female,CSE,9.5,8.7,7.867,,5,,Placed,Yes,5
+Female,EEE,9.19,9.3,8.23,Yes,2,,Placed,Yes,2
+Male,EEE,9.45,9.17,8.212,No,2,6,Not Placed,Yes,2
+Female,CSE,9.14,7.82,9.311,Yes,2,2,Placed,Yes,2
+Female,IT,9.61,7.6,8.101,Yes,2,0,Placed,Yes,2
+Female,CSE,9.36,8.8,9.4,Yes,3,2,Placed,Yes,3
+Male,ECE,9.15,8.32,9.174,No,2,2,Placed,Yes,2
+Female,IT,8.72,8.66,8.108,Yes,,4,Not Placed,Yes,
+Male,IT,9.23,8.34,9.035,No,5,1,Not Placed,Yes,5
+Female,IT,9.29,9.14,7.903,No,3,0,Placed,Yes,3
+Female,IT,8.91,7.7,8.695,Yes,3,4,Placed,Yes,3
+Male,CSE,8.7,9.1,8.331,No,1,2,Not Placed,No,0
+Female,CSE,6.6,9.4,8.502,Yes,3,2,Placed,Yes,3
+Male,IT,9.43,7.97,8.69,No,0,,Placed,Yes,0
+Female,CSE,9.3,6.94,7.856,No,1,3,Not Placed,No,0
+Female,CSE,9.27,9.31,7.8,No,3,,Not Placed,Yes,3
+Male,CSE,8.46,8.5,7.745,No,2,3,Not Placed,Yes,2
+Male,CSE,9.33,9.67,8.677,Yes,2,3,Placed,Yes,2
+Female,CSE,8.66,8.6,8.859,No,6,2,Placed,Yes,6
+Male,CSE,8.76,8.4,9.326,Yes,3,6,Placed,Yes,3
+Male,CSE,7.84,8.67,9.192,Yes,5,6,Placed,Yes,5
+Female,CSE,6.98,8.7,8.601,No,,0,Placed,Yes,
+Female,CSE,7,8.58,8.827,Yes,2,,Not Placed,Yes,2
+Female,CSE,9.89,9.95,9.104,No,2,2,Placed,Yes,2
+Female,CSE,8,8.76,8.862,No,2,2,Not Placed,Yes,2
+Male,CSE,9.47,9,8.769,Yes,2,2,Placed,Yes,2
+Female,CSE,9,8.7,8.428,No,2,,Not Placed,Yes,2
+Female,CSE,8.78,9,8.496,Yes,2,2,Not Placed,Yes,2
+Female,CSE,9.13,7.82,9.007,Yes,4,4,Placed,Yes,4
+Female,CSE,9.14,9.5,8.204,No,2,2,Placed,Yes,2
+Female,ECE,9,8.6,8.509,Yes,3,2,Placed,Yes,3
+Female,CSE,9.46,8.55,8.658,Yes,2,1,Placed,Yes,2
+Female,EEE,8.27,8.8,7.745,No,0,,Not Placed,No,0
+Female,CSE,8.51,7.21,8.592,No,1,0,Not Placed,No,0
+Female,EEE,8.5,9.5,7.992,No,1,3,Not Placed,Yes,1
+Female,EEE,6.6,9.46,8.989,Yes,1,3,Not Placed,No,0
+Male,CSE,9.44,7.86,7.622,,4,3,Not Placed,Yes,4
+Female,CIVIL,7.8,9.32,8.219,No,2,2,Not Placed,Yes,2
+Female,IT,8.5,9.5,8.781,Yes,2,,Placed,Yes,2
+Female,CSE,9.21,9.05,8.969,No,2,,Placed,Yes,2
+Female,EEE,8.99,8.7,9.159,Yes,2,2,Placed,Yes,2
+Female,CSE,8.39,8.4,8.167,Yes,1,3,Placed,Yes,1
+Female,CSE,9.61,8.29,8.126,No,1,,Not Placed,No,0
+Male,ECE,9.93,9.24,8.836,No,4,2,Placed,Yes,4
+Male,CSE,8.3,7.7,7.985,,2,3,Placed,Yes,2
+Female,IT,8.46,8.95,7.918,Yes,5,4,Placed,Yes,5
+Male,CSE,8.9,8.6,8.275,,1,1,Placed,Yes,1
+Female,CSE,8.54,8.73,8.584,No,2,4,Not Placed,Yes,2
+Male,ECE,9.08,8.25,7.589,No,,2,Not Placed,Yes,
+Male,CSE,8.59,8.93,8.929,Yes,5,2,Placed,Yes,5
+Female,CSE,8.94,9.69,8.604,Yes,1,0,Not Placed,No,0
+Female,CSE,9.08,8.14,8.1,No,,0,Not Placed,No,0
+Male,MECHANICAL,9.56,8.67,8.9,No,,4,Not Placed,Yes,
+Female,CSE,8.5,8.56,7.912,No,6,3,Placed,Yes,6
+Female,MECHANICAL,7,8.675,7.949,No,2,0,Not Placed,Yes,2
+Female,CSE,9.05,8.21,8.004,No,2,2,Not Placed,Yes,2
+Female,CSE,9.6,8.6,8.141,No,3,1,Not Placed,Yes,3
+Male,ECE,9.6,9,9.013,Yes,4,3,Placed,Yes,4
+Female,EEE,9.25,8.24,8.326,No,5,2,Not Placed,Yes,5
+Male,MECHANICAL,9.05,7.66,8.532,Yes,2,2,Not Placed,Yes,2
+Male,IT,8.45,8.8,7.638,No,3,0,Not Placed,Yes,3
+Male,CSE,8.2,8.73,8.074,No,1,0,Not Placed,Yes,1
+Female,CSE,8.14,8.5,7.97,No,2,2,Not Placed,Yes,2
+Female,CSE,8.91,9.39,8.195,No,0,,Not Placed,No,0
+Male,CSE,9.81,8.7,9.005,No,3,0,Not Placed,Yes,3
+Male,CSE,9.3,9,8.984,Yes,5,2,Placed,Yes,5
+Female,CSE,9.28,8.56,8.434,Yes,2,3,Not Placed,Yes,2
+Female,CSE,8.67,9.93,8.553,Yes,3,,Placed,Yes,3
+Male,IT,8.79,9.2,9.4,No,2,1,Not Placed,Yes,2
+Female,ECE,8.3,8.7,9.1,No,3,4,Placed,Yes,3
+Male,EEE,9.83,8.51,8.601,No,4,2,Not Placed,Yes,4
+Male,CSE,7.8,8.12,7.626,Yes,2,1,Not Placed,Yes,2
+Female,CSE,9.6,8.45,9.271,Yes,4,2,Placed,Yes,4
+Female,MECHANICAL,10,9.96,8.48,No,,4,Not Placed,Yes,
+Female,CSE,9,8.56,8.88,No,2,3,Placed,Yes,2
+Male,CSE,8.32,8.5,8.349,No,1,0,Not Placed,No,0
+Male,CSE,7.89,8.4,8.123,Yes,4,2,Placed,Yes,4
+Female,CSE,9.4,9.02,8.043,No,3,3,Placed,Yes,3
+Female,EEE,9.27,8.67,9.4,No,4,2,Placed,Yes,4
+Female,CSE,9.86,8.78,7.516,No,2,,Placed,Yes,2
+Male,EEE,8.64,8.72,7.576,No,,2,Not Placed,Yes,
+Male,CIVIL,7.5,9.77,8.262,Yes,1,3,Placed,Yes,1
+Female,IT,9.38,8.78,8.109,,2,4,Placed,Yes,2
+Female,IT,9.32,9.32,7.863,No,,1,Not Placed,Yes,
+Male,IT,9.4,8.17,8.279,No,0,2,Not Placed,No,0
+Female,ECE,7.98,8.7,8.858,Yes,3,2,Placed,Yes,3
+Male,CSE,9.49,8.54,8.466,Yes,5,,Placed,Yes,5
+Female,CSE,9.32,8.48,9.4,No,4,2,Placed,Yes,4
+Male,CSE,9.93,8.58,8.808,No,4,,Not Placed,Yes,4
+Male,CSE,9.1,9.73,9.055,Yes,3,3,Placed,Yes,3
+Female,CSE,9.25,9.7,8.729,No,0,2,Placed,No,0
+Female,CSE,9.76,8.81,8.492,Yes,,2,Placed,Yes,
+Male,EEE,9.5,8.35,7.742,Yes,3,2,Placed,Yes,3
+Female,CSE,9.91,8.55,7.634,No,1,4,Not Placed,Yes,1
+Male,CSE,9.38,8.34,8.351,No,0,2,Not Placed,No,0
+Male,MECHANICAL,9.48,8.67,9.04,No,5,1,Placed,Yes,5
+Female,IT,9.03,9.21,8.74,No,2,4,Not Placed,Yes,2
+Female,CSE,9.52,9.48,8.077,Yes,2,6,Placed,Yes,2
+Female,ECE,9.88,8.13,8.789,Yes,3,7,Placed,Yes,3
+Female,CSE,8.16,8.56,8.816,Yes,2,3,Placed,Yes,2
+Female,CSE,8.64,8.34,8.042,No,1,4,Not Placed,Yes,1
+Male,CSE,9.54,8.89,8.93,Yes,2,2,Placed,Yes,2
+Male,CSE,6.87,8.78,9.281,Yes,3,0,Placed,Yes,3
+Male,CSE,8.22,8.56,8.104,No,1,3,Not Placed,Yes,1
+Female,EEE,9.01,9,9.27,Yes,1,,Placed,Yes,1
+Male,CSE,9.71,9.4,8.553,No,3,1,Not Placed,Yes,3
+Female,IT,6.9,8.15,8.941,,2,0,Not Placed,Yes,2
+Female,EEE,8.73,7.89,8.29,No,0,3,Not Placed,No,0
+Male,CSE,9.54,8.94,8.513,Yes,1,2,Placed,Yes,1
+Female,ECE,9.63,9.46,9.176,Yes,4,,Placed,Yes,4
+Male,IT,8.93,8.98,7.929,Yes,2,2,Placed,Yes,2
+Female,CSE,8.67,8.61,9,Yes,5,4,Placed,Yes,5
+Female,CSE,8.46,8.56,8.598,Yes,,2,Not Placed,Yes,
+Female,IT,9.42,7.43,8.867,Yes,3,2,Placed,Yes,3
+Female,IT,8.79,8.45,9.372,Yes,3,4,Placed,Yes,3
+Female,CSE,9.23,9.2,9.4,No,,2,Not Placed,Yes,
+Female,CSE,9.77,8.67,9.316,Yes,2,2,Placed,Yes,2
+Male,IT,8.76,8.68,8.708,Yes,,2,Placed,Yes,
+Female,CSE,9.42,8.57,8.618,Yes,2,,Placed,Yes,2
+Female,CSE,8.49,8.4,9.341,Yes,3,2,Placed,Yes,3
+Female,CSE,9.91,8.92,9.193,Yes,3,2,Not Placed,Yes,3
+Female,CSE,9.37,9.04,8.47,No,2,0,Not Placed,Yes,2
+Male,ECE,9.53,9.42,8.024,Yes,0,2,Not Placed,No,0
+Male,MECHANICAL,9.69,8.95,8.947,Yes,3,2,Placed,Yes,3
+Female,CSE,9.6,7.8,7.714,Yes,2,5,Placed,Yes,2
+Female,CSE,9.9,9.75,8.775,Yes,2,3,Placed,Yes,2
+Female,CSE,9.63,9.48,8.829,Yes,4,4,Placed,Yes,4
+Male,CSE,9.5,8.56,9.4,,2,3,Placed,Yes,2
+Female,MECHANICAL,9.3,8.61,7.913,No,0,1,Not Placed,No,0
+Female,CSE,8.56,7.36,8.064,,2,5,Placed,Yes,2
+Male,CSE,9.96,8.51,8.866,No,0,4,Not Placed,No,0
+Female,CSE,8.39,9.04,8.654,Yes,4,4,Placed,Yes,4
+Female,CSE,8.1,8.7,8.931,No,1,2,Not Placed,Yes,1
+Female,MECHANICAL,7.48,8.85,9.16,No,3,3,Placed,Yes,3
+Female,CSE,7.8,9.44,8.441,Yes,0,3,Not Placed,No,0
+Male,CSE,9,9.5,8.131,Yes,3,4,Placed,Yes,3
+Female,CSE,9.97,9.48,8.02,Yes,4,1,Placed,Yes,4
+Male,CSE,8.58,8.65,7.313,No,2,2,Not Placed,Yes,2
+Female,CSE,9.98,9.51,7.924,,3,3,Placed,Yes,3
+Male,CSE,9.83,9.38,8.612,Yes,2,2,Placed,Yes,2
+Female,CSE,8.7,8.77,9.4,No,2,0,Not Placed,Yes,2
+Female,CSE,8.5,8.09,7.595,,1,4,Placed,Yes,1
+Female,IT,9.38,7.28,9.224,Yes,4,2,Placed,Yes,4
+Male,CSE,9.46,9.13,8.668,Yes,3,2,Not Placed,Yes,3
+Female,CSE,9.42,9.5,9.153,Yes,2,2,Placed,Yes,2
+Male,CSE,9.11,9.23,9.313,Yes,3,2,Placed,Yes,3
+Female,CSE,7.56,7.76,7.591,No,1,0,Not Placed,No,0
+Female,ECE,8.81,8.8,8.355,Yes,2,2,Placed,Yes,2
+Female,CSE,9.4,8.41,9.161,Yes,6,2,Placed,Yes,6
+Female,CSE,9.17,8.79,8.457,Yes,3,5,Placed,Yes,3
+Male,CSE,8.9,8.6,7.71,Yes,2,3,Placed,Yes,2
+Male,CSE,9.66,9.5,9.4,Yes,2,2,Placed,Yes,2
+Female,CSE,9.15,8.96,8.898,Yes,4,2,Placed,Yes,4
+Female,CSE,9.64,9.47,9.04,Yes,5,2,Placed,Yes,5
+Male,CSE,9.45,8.78,9.131,No,0,1,Not Placed,No,0
+Male,CSE,9.33,9.123,7.661,Yes,1,2,Not Placed,Yes,1
+Female,EEE,9.55,8.67,8.369,No,,2,Not Placed,Yes,
+Male,EEE,7.67,9.45,8.161,Yes,3,2,Placed,Yes,3
+Male,CSE,7.7,9.57,9.4,,2,0,Not Placed,Yes,2
+Male,ECE,8.6,9.45,8.99,Yes,1,1,Not Placed,Yes,1
+Male,CSE,8.16,9.21,8.606,Yes,2,1,Not Placed,Yes,2
+Female,CSE,8.65,8.43,8.605,Yes,2,3,Placed,Yes,2
+Female,CSE,7.8,8.45,8.356,No,5,2,Placed,Yes,5
+Male,ECE,9.49,8.25,8.703,Yes,3,1,Placed,Yes,3
+Female,CSE,8.79,8.27,8.672,No,1,2,Not Placed,Yes,1
+Female,ECE,9.45,9.32,8.176,Yes,1,,Not Placed,Yes,1
+Male,CSE,9.83,8.7,8.622,Yes,3,0,Placed,Yes,3
+Female,CSE,8.34,9.15,8.738,No,1,,Not Placed,Yes,1
+Male,CSE,9.12,9.34,8.636,Yes,4,2,Placed,Yes,4
+Female,CSE,7.63,9.1,8.147,Yes,4,,Placed,Yes,4
+Male,CSE,8.58,8.67,8.561,No,5,3,Placed,Yes,5
+Female,CSE,9.48,9.5,8.29,Yes,1,2,Placed,Yes,1
+Male,EEE,9.13,8.7,8.256,Yes,2,4,Placed,Yes,2
+Female,CSE,6.6,7,8.129,Yes,1,2,Not Placed,Yes,1
+Female,EEE,9.46,9.46,8.886,No,,3,Not Placed,Yes,
+Female,CSE,8.6,8.6,8.224,Yes,2,2,Placed,Yes,2
+Female,CSE,8.48,9.45,8.98,Yes,2,0,Not Placed,Yes,2
+Female,CSE,9.09,8.66,8.764,No,3,2,Placed,Yes,3
+Female,IT,9.5,9.19,7.981,Yes,2,2,Placed,Yes,2
+Male,ECE,9.91,9.12,9.251,Yes,3,2,Placed,Yes,3
+Male,CSE,8.65,9.23,8.425,Yes,3,3,Placed,Yes,3
+Female,IT,8.08,8.8,9.4,Yes,,3,Placed,Yes,
+Female,CSE,9.41,9.12,8.807,No,2,1,Not Placed,Yes,2
+Male,CSE,9.46,8.9,8.333,Yes,4,1,Placed,Yes,4
+Female,CSE,9.23,9.32,8.623,Yes,2,0,Not Placed,Yes,2
+Male,CSE,8.39,8.87,8.719,Yes,2,0,Not Placed,Yes,2
+Male,EEE,9.13,8.68,8.291,No,2,2,Not Placed,Yes,2
+Female,CSE,7.87,8.68,9.4,Yes,2,3,Placed,Yes,2
+Male,IT,9.23,8.67,8.811,Yes,3,2,Placed,Yes,3
+Female,CSE,7.88,8.9,8.554,Yes,2,3,Placed,Yes,2
+Male,CSE,9.51,8.5,8.473,Yes,3,2,Placed,Yes,3
+Female,EEE,8.99,9.34,8.959,No,3,3,Placed,Yes,3
+Female,ECE,8.95,8.7,9.4,Yes,3,4,Placed,Yes,3
+Female,CSE,8.54,8.67,8.513,Yes,2,2,Placed,Yes,2
+Female,CSE,9.15,9.45,8.101,No,2,1,Not Placed,Yes,2
+Female,CSE,6.6,8.1,8.202,Yes,2,,Placed,Yes,2
+Female,CSE,8.86,7.29,8.822,Yes,4,2,Placed,Yes,4
+Male,EEE,7.5,9.5,7.357,No,,,Not Placed,Yes,
+Female,CSE,10,9.35,9.4,Yes,4,2,Placed,Yes,4
+Female,CSE,9.79,8.49,7.562,Yes,,2,Placed,Yes,
+Female,CSE,9.34,8.83,7.285,Yes,0,1,Not Placed,No,0
+Male,CSE,8.9,9.52,8.604,No,1,1,Not Placed,Yes,1
+Female,CSE,8.8,9.34,9.03,No,1,3,Not Placed,Yes,1
+Female,CSE,8.98,9.23,9.259,Yes,5,2,Placed,Yes,5
+Female,CSE,9.84,8.56,8.628,Yes,2,2,Placed,Yes,2
+Male,ECE,8.45,9.56,8.605,Yes,4,3,Placed,Yes,4
+Male,ECE,9.08,8.85,8.991,No,3,0,Not Placed,Yes,3
+Female,CSE,8.68,9.52,8.563,Yes,3,5,Not Placed,Yes,3
+Male,ECE,8.43,8.8,8.565,Yes,3,3,Placed,Yes,3
+Male,CSE,9.06,9.16,8.089,No,1,3,Not Placed,Yes,1
+Male,CSE,9.21,8.7,8.453,Yes,3,3,Placed,Yes,3
+Male,ECE,8.56,8.92,8.214,No,4,2,Placed,Yes,4
+Male,CSE,8.26,7,9.119,Yes,3,2,Placed,Yes,3
+Female,CSE,9.54,7.79,8.997,Yes,4,2,Not Placed,Yes,4
+Male,IT,8.46,9.21,7.809,No,3,1,Not Placed,Yes,3
+Male,CSE,7.9,8.7,9.104,Yes,2,2,Placed,Yes,2
+Female,CSE,7.6,9.11,8.515,Yes,2,2,Placed,Yes,2
+Male,ECE,9.56,9,8.904,Yes,2,2,Placed,Yes,2
+Male,ECE,8.96,8.9,8.077,Yes,3,2,Placed,Yes,3
+Female,CSE,9.28,8.69,8.236,No,1,2,Not Placed,Yes,1
+Male,CSE,9.5,7.84,9.054,Yes,3,2,Placed,Yes,3
+Female,EEE,9.03,7.21,7.872,Yes,,3,Placed,Yes,
+Female,CSE,8.82,9,9.4,Yes,2,0,Not Placed,Yes,2
+Female,CSE,9.96,9.1,9.4,Yes,3,3,Placed,Yes,3
+Male,CSE,9.71,9.19,7.764,No,1,4,Not Placed,Yes,1
+Male,CSE,9.2,9.12,7.594,Yes,2,2,Placed,Yes,2
+Male,CSE,7.2,9.3,8.942,Yes,3,2,Placed,Yes,3
+Male,MECHANICAL,8.78,9.3,8.722,Yes,,2,Not Placed,Yes,
+Female,EEE,8.2,8.7,8.65,No,2,2,Not Placed,Yes,2
+Male,CSE,9.44,7.61,8.948,No,2,3,Placed,Yes,2
+Female,CSE,7.1,8.1,9.055,No,2,2,Not Placed,Yes,2
+Male,CSE,9.91,9.45,8.565,Yes,2,0,Not Placed,Yes,2
+Female,MECHANICAL,9.2,9,7.997,No,5,0,Not Placed,Yes,5
+Female,EEE,8.5,9.25,9.164,No,3,2,Not Placed,Yes,3
+Female,CSE,9.27,9.42,9.4,Yes,3,2,Placed,Yes,3
+Female,CSE,9.17,8.67,8.406,No,2,4,Not Placed,Yes,2
+Male,CSE,8.1,8.7,8.877,Yes,1,1,Placed,Yes,1
+Female,EEE,6.7,8.9,9.4,Yes,1,1,Placed,Yes,1
+Male,CSE,8.54,9.24,9.056,Yes,2,2,Placed,Yes,2
+Female,EEE,8.9,7.65,8.135,,3,4,Placed,Yes,3
+Female,IT,9.6,8.55,8.323,No,1,,Placed,Yes,1
+Male,CSE,8.16,8.5,8.753,No,3,3,Placed,Yes,3
+Male,CSE,9.71,9.42,8.947,Yes,3,3,Placed,Yes,3
+Female,CSE,9.39,7.79,9.051,No,3,2,Placed,Yes,3
+Male,CSE,9.2,9.43,9.038,Yes,3,0,Placed,Yes,3
+Female,ECE,9.07,9.34,9.4,No,0,3,Not Placed,No,0
+Male,CSE,8.54,9.23,7.525,No,5,2,Not Placed,Yes,5
+Male,CSE,9.34,9.05,9.4,Yes,3,2,Placed,Yes,3
+Male,IT,8.79,9.28,8.703,Yes,,3,Placed,Yes,
+Female,MECHANICAL,7.6,9.03,8.585,No,,4,Placed,Yes,
+Male,EEE,8.06,8,9.024,Yes,1,3,Not Placed,Yes,1
+Male,CSE,9.48,7.49,8.876,Yes,5,2,Not Placed,Yes,5
+Male,CSE,9.55,9,8.411,Yes,3,3,Placed,Yes,3
+Female,CSE,8.34,9.14,8.752,No,2,0,Placed,Yes,2
+Female,CSE,9.51,7,9.4,Yes,3,2,Placed,Yes,3
+Male,EEE,8.84,8.22,8.085,No,,3,Not Placed,Yes,
+Male,CSE,8.2,9.17,7.867,No,,2,Not Placed,Yes,
+Female,ECE,6.6,8.93,9.155,No,0,3,Placed,No,0
+Female,CSE,9.37,8.48,8.413,Yes,2,,Placed,Yes,2
+Male,CSE,7.54,8.67,8.9,Yes,,3,Not Placed,Yes,
+Male,CSE,9.38,9.46,8.753,No,,,Placed,Yes,
+Male,CSE,8.87,8.72,7.927,Yes,1,3,Placed,Yes,1
+Female,IT,6.89,8.65,8.683,Yes,5,3,Placed,Yes,5
+Male,IT,7.31,8.43,9.051,Yes,4,2,Placed,Yes,4
+Male,CSE,9.94,8.45,8.132,Yes,2,2,Placed,Yes,2
+Female,CSE,6.6,8.32,7.448,No,0,0,Not Placed,No,0
+Male,CSE,8.27,8.45,8.577,,3,4,Placed,Yes,3
+Female,MECHANICAL,7.56,9.32,8.774,,3,0,Not Placed,Yes,3
+Male,CSE,9.3,9,9.4,Yes,5,,Placed,Yes,5
+Male,EEE,9.4,8,9.035,Yes,,3,Placed,Yes,
+Female,ECE,8.94,8.89,7.414,No,6,,Placed,Yes,6
+Female,CSE,7.8,9,9.009,,,2,Not Placed,Yes,
+Female,ECE,8.29,9.13,9.4,Yes,3,4,Placed,Yes,3
+Female,CSE,9.4,8.65,8.946,Yes,3,0,Placed,Yes,3
+Female,ECE,9.47,9.12,8.558,Yes,2,2,Placed,Yes,2
+Female,CSE,9.27,9,8.133,No,4,3,Not Placed,Yes,4
+Male,ECE,9.04,8.47,7.996,,4,3,Not Placed,Yes,4
+Female,CSE,9.89,7.37,9.09,Yes,4,2,Not Placed,Yes,4
+Male,CSE,8.66,8.79,8.5,No,2,2,Not Placed,Yes,2
+Male,CSE,8.4,8.68,8.952,Yes,2,2,Placed,Yes,2
+Female,CSE,9.12,9.35,9.01,Yes,5,2,Placed,Yes,5
+Male,CSE,9.96,9.53,8.758,Yes,4,4,Placed,Yes,4
+Female,CSE,9.9,7.89,8.69,Yes,2,5,Placed,Yes,2
+Male,CSE,9,8,9.024,Yes,,3,Placed,Yes,
+Male,MECHANICAL,8.41,9.17,7.744,No,4,0,Not Placed,Yes,4
+Female,EEE,9.54,8.21,8.598,Yes,1,3,Placed,Yes,1
+Male,CSE,8.77,9,8.684,Yes,4,2,Not Placed,Yes,4
+Female,CSE,8.93,9.1,8.947,No,,3,Placed,Yes,
+Male,ECE,7.77,9.3,8.237,Yes,3,5,Placed,Yes,3
+Female,CSE,7.92,8,9.4,No,3,1,Placed,Yes,3
+Female,IT,8.87,9,9.148,No,1,3,Placed,Yes,1
+Male,CSE,9.6,8.47,9.4,Yes,4,2,Placed,Yes,4
+Female,ECE,8.86,8.4,9.206,No,2,2,Not Placed,Yes,2
+Female,MECHANICAL,6.98,8.44,8.318,Yes,2,2,Not Placed,Yes,2
+Female,CSE,8.46,9,8.793,Yes,4,4,Placed,Yes,4
+Female,CSE,9.64,8.5,8.152,No,2,,Placed,Yes,2
+Male,CSE,9.13,8.6,7.917,No,2,1,Placed,Yes,2
+Female,IT,9.87,8.4,8.495,No,5,3,Not Placed,Yes,5
+Female,CSE,6.6,8.48,8.899,Yes,1,2,Placed,Yes,1
+Male,CSE,8.71,8.63,7.764,Yes,4,2,Not Placed,Yes,4
+Female,CSE,9.08,9.31,7.029,No,2,2,Not Placed,Yes,2
+Female,CSE,8.66,8.08,7.287,No,3,4,Placed,Yes,3
+Female,CSE,9.45,7.43,7.537,No,1,1,Not Placed,No,0
+Male,IT,9.15,9.39,7.266,Yes,2,,Placed,Yes,2
+Female,CSE,8.65,8.6,8.713,Yes,1,2,Placed,Yes,1
+Female,CSE,8.54,9.43,8.646,No,2,0,Not Placed,Yes,2
+Female,ECE,9.23,8.35,8.767,No,4,2,Placed,Yes,4
+Male,CSE,9.64,9.53,7.975,Yes,4,3,Placed,Yes,4
+Male,IT,9.61,8.8,9.099,No,2,2,Not Placed,Yes,2
+Male,CSE,9.09,7.6,8.081,Yes,3,0,Placed,Yes,3
+Female,ECE,9.15,9.4,7.848,No,,,Not Placed,Yes,
+Female,CSE,9.41,8.93,8.924,Yes,3,3,Placed,Yes,3
+Female,CSE,7.98,9.5,9.358,Yes,,4,Placed,Yes,
+Female,CSE,8.86,9.06,9.346,No,2,,Placed,Yes,2
+Female,CSE,8.07,7.45,8.102,No,6,0,Not Placed,Yes,6
+Female,ECE,8.52,9.36,8.749,No,,0,Not Placed,Yes,
+Female,EEE,9.1,8,8.564,Yes,3,2,Placed,Yes,3
+Male,EEE,8.9,9,8.823,Yes,2,2,Not Placed,Yes,2
+Female,CSE,9.51,8.56,8.673,Yes,3,0,Placed,Yes,3
+Male,ECE,7.8,8.18,8.854,Yes,4,2,Placed,Yes,4
+Male,CSE,7.54,9.33,8.487,Yes,3,,Placed,Yes,3
+Female,CSE,10,8,7.789,Yes,1,0,Placed,Yes,1
+Male,CSE,8.71,9.16,8.867,Yes,,7,Not Placed,Yes,
+Female,CSE,9.2,8.4,9.019,No,6,,Placed,Yes,6
+Male,CSE,6.6,9,8.161,No,3,,Not Placed,Yes,3
+Male,ECE,7.81,9.27,6.901,No,,0,Not Placed,No,0
+Male,CSE,9.53,9.4,8.112,Yes,3,,Not Placed,Yes,3
+Female,CSE,9.05,8.13,8.784,Yes,4,2,Placed,Yes,4
+Male,CSE,9.6,9.45,9.144,No,2,5,Not Placed,Yes,2
+Female,CSE,9.7,8,8.635,No,2,3,Placed,Yes,2
+Male,ECE,8.25,8.81,8.492,No,5,,Placed,Yes,5
+Female,CSE,8.72,9.1,8.46,Yes,2,4,Not Placed,Yes,2
+Female,ECE,9.79,9.4,8.523,Yes,2,1,Not Placed,Yes,2
+Male,IT,9.7,8.15,8.569,No,,0,Not Placed,No,0
+Male,EEE,8.23,9.27,8.591,No,2,,Placed,Yes,2
+Female,EEE,8.15,8.13,7.889,No,2,1,Placed,Yes,2
+Female,CSE,8.42,8,8.779,No,,1,Not Placed,Yes,
+Female,CSE,9.16,7.9,8.616,No,3,,Placed,Yes,3
+Female,ECE,8,8.17,7.31,No,0,0,Not Placed,Yes,0
+Female,CSE,8.56,8,7.9,Yes,2,6,Placed,Yes,2
+Female,EEE,9.42,8.22,8.05,No,,4,Not Placed,Yes,
+Male,CSE,9.6,9,8.135,Yes,3,2,Placed,Yes,3
+Female,CSE,7.9,8.81,7.607,Yes,1,,Placed,Yes,1
+Female,CSE,9.4,9.31,8.59,Yes,3,2,Placed,Yes,3
+Female,IT,8.96,8.06,9.072,Yes,5,2,Placed,Yes,5
+Female,CSE,9.9,8,8.178,No,,2,Not Placed,Yes,
+Female,CSE,9.97,9.25,7.512,Yes,0,2,Not Placed,No,0
+Female,IT,8.8,8.31,8.707,No,1,7,Not Placed,Yes,1
+Male,IT,8.67,8.28,8.91,No,3,2,Not Placed,Yes,3
+Male,CSE,8.96,9,8.286,No,0,4,Not Placed,No,0
+Female,CSE,8.54,7,9.171,Yes,0,2,Placed,Yes,0
+Male,CSE,9.3,6.59,8.448,Yes,0,2,Placed,No,0
+Male,CSE,9.19,9.25,8.318,No,3,2,Placed,Yes,3
+Female,CSE,9.56,9.3,9.342,No,1,2,Placed,Yes,1
+Male,CSE,9.81,9.2,9.4,No,2,1,Not Placed,Yes,2
+Male,CSE,8.85,9.23,9.326,Yes,3,5,Not Placed,Yes,3
+Male,IT,9.2,9.15,8.473,,6,6,Placed,Yes,6
+Female,CSE,9.16,9.42,9.176,Yes,3,6,Placed,Yes,3
+Female,CSE,9.44,9.13,9.111,Yes,2,3,Not Placed,Yes,2
+Female,CSE,8.6,8.36,8.833,Yes,2,1,Placed,Yes,2
+Female,ECE,7.9,9.11,9.4,No,,5,Placed,Yes,
+Male,CSE,7.84,9,9.4,Yes,1,2,Not Placed,Yes,1
+Male,CSE,9,8,8.653,Yes,2,0,Placed,Yes,2
+Female,CSE,9.61,7,7.864,No,,2,Placed,Yes,
+Male,CSE,8,8,8.883,No,,2,Placed,Yes,
+Male,IT,9.69,8.6,7.818,No,1,0,Not Placed,Yes,1
+Male,CSE,7.9,7.7,7.958,Yes,1,1,Not Placed,Yes,1
+Male,EEE,8.87,8.56,8.537,No,1,3,Placed,Yes,1
+Female,IT,9.24,8.34,7.936,No,5,0,Not Placed,Yes,5
+Female,CSE,9.13,9.01,8.376,No,2,3,Placed,Yes,2
+Male,MECHANICAL,9.23,8.41,8.866,,4,1,Placed,Yes,4
+Female,CSE,9.01,9.21,9.4,Yes,3,2,Placed,Yes,3
+Male,CSE,9.87,9.45,8.208,Yes,4,,Placed,Yes,4
+Female,CSE,9.52,9.4,8.031,Yes,0,,Not Placed,No,0
+Female,CSE,9.6,9.2,9.146,Yes,3,2,Not Placed,Yes,3
+Female,CSE,9.74,9,7.468,No,6,2,Not Placed,Yes,6
+Male,CSE,9.34,8.99,7.623,,2,,Placed,Yes,2
+Male,CSE,9.93,9.41,7.689,No,,0,Not Placed,Yes,
+Male,CSE,8.36,9.35,8.903,No,,1,Not Placed,Yes,
+Female,CSE,8,9,8.023,Yes,4,6,Placed,Yes,4
+Female,CSE,8.76,7.22,9.019,No,2,2,Placed,Yes,2
+Female,MECHANICAL,9.76,9.28,8.325,Yes,4,3,Not Placed,Yes,4
+Female,CSE,8.77,9.08,8.443,Yes,3,2,Placed,Yes,3
+Female,CSE,8.96,9.5,7.789,No,0,1,Placed,No,0
+Female,CSE,9.17,9.2,8.299,No,4,3,Not Placed,Yes,4
+Male,CSE,9.14,9.35,8.94,Yes,3,2,Placed,Yes,3
+Male,CSE,9.63,8,8.272,No,,7,Not Placed,Yes,
+Female,IT,9.64,8.8,8.912,No,2,5,Placed,Yes,2
+Female,EEE,9.25,8.74,8.823,No,3,,Placed,Yes,3
+Female,IT,8.58,8.05,8.007,No,2,2,Not Placed,Yes,2
+Female,IT,9.01,9,8.371,,3,2,Placed,Yes,3
+Female,IT,8.67,9.45,8.679,,2,0,Placed,Yes,2
+Male,ECE,9.38,7.12,9.064,Yes,2,2,Placed,Yes,2
+Female,CSE,7.8,9,9.4,Yes,4,4,Placed,Yes,4
+Female,CSE,9.59,8.98,7.759,Yes,2,,Not Placed,Yes,2
+Male,CSE,9.5,8,8.723,Yes,3,2,Placed,Yes,3
+Male,CSE,8.19,7.33,8.346,No,,4,Not Placed,Yes,
+Female,CSE,9.88,9.25,9.206,Yes,3,2,Placed,Yes,3
+Male,CSE,7.77,9.25,7.729,Yes,2,2,Placed,Yes,2
+Male,EEE,8.8,8.7,7.832,No,1,0,Not Placed,No,0
+Female,CSE,6.98,9.25,9.4,Yes,3,2,Placed,Yes,3
+Female,ECE,9.53,8.03,7.331,No,1,3,Not Placed,Yes,1
+Male,CSE,9.43,9,8.934,No,2,5,Not Placed,Yes,2
+Male,ECE,9.05,9.23,9.191,Yes,2,3,Placed,Yes,2
+Female,EEE,9.41,8,8.023,No,2,1,Not Placed,Yes,2
+Female,CSE,8,8.26,8.711,No,4,0,Not Placed,Yes,4
+Female,CSE,8.19,7.72,8.959,No,3,0,Not Placed,Yes,3
+Female,CSE,9.93,8.56,8.764,No,5,4,Not Placed,Yes,5
+Female,CSE,8.9,8,9.107,Yes,4,4,Placed,Yes,4
+Male,ECE,9.34,9,7.759,No,2,4,Not Placed,Yes,2
+Male,CSE,9.97,8.44,8.684,No,3,2,Placed,Yes,3
+Male,CSE,7.82,9.3,8.897,Yes,1,2,Placed,Yes,1
+Male,CSE,9.39,8.43,9.028,Yes,1,3,Placed,Yes,1
+Female,EEE,9.07,8.56,8.67,Yes,2,,Not Placed,Yes,2
+Male,ECE,9.3,8.78,7.708,No,,2,Placed,Yes,
+Male,CSE,8.5,9,8.225,,4,3,Not Placed,Yes,4
+Male,ECE,9.03,9.09,9.02,No,,7,Not Placed,Yes,
+Male,CSE,9.23,8.56,9.038,No,4,2,Not Placed,Yes,4
+Male,CSE,8.67,7.32,7.799,No,1,0,Not Placed,Yes,1
+Male,CSE,9.21,9.19,9.136,No,3,2,Not Placed,Yes,3
+Female,CSE,9.47,8.9,8.732,Yes,3,3,Placed,Yes,3
+Female,CSE,9.26,8.75,8.557,No,3,3,Placed,Yes,3
+Male,ECE,8.12,8.56,7.755,No,1,3,Not Placed,Yes,1
+Female,CSE,7.32,9,8.972,Yes,3,3,Placed,Yes,3
+Female,ECE,8.4,8.81,9.396,No,3,2,Placed,Yes,3
+Male,IT,8,8,8.103,No,2,3,Placed,Yes,2
+Female,CSE,8.7,8.61,8.628,Yes,3,2,Placed,Yes,3
+Female,CSE,7,9,9.049,No,1,0,Not Placed,Yes,1
+Female,CSE,9.28,8.7,9.14,Yes,,2,Placed,Yes,
+Female,CSE,9.1,9.36,9.05,Yes,2,2,Placed,Yes,2
+Male,IT,6.6,8.57,7.479,No,2,3,Placed,Yes,2
+Female,CSE,8.6,8.23,8.401,No,3,1,Placed,Yes,3
+Male,CSE,9.04,9.17,9.105,Yes,2,3,Placed,Yes,2
+Female,ECE,8.67,8.62,8.341,No,3,3,Placed,Yes,3
+Male,CSE,9.17,9.4,8.563,Yes,,2,Placed,Yes,
+Female,CSE,9.39,7.93,8.311,No,3,3,Not Placed,Yes,3
+Female,MECHANICAL,7.65,8.62,9.381,Yes,6,1,Placed,Yes,6
+Female,CSE,9.6,8.72,8.749,Yes,2,3,Placed,Yes,2
+Female,CSE,9.94,6.1,8.419,No,2,,Placed,Yes,2
+Female,ECE,9.81,9,8.255,No,2,2,Placed,Yes,2
+Female,ECE,9.55,8.87,8.376,No,4,2,Placed,Yes,4
+Female,CSE,9.34,9.45,8.7,No,,4,Not Placed,Yes,
+Female,CSE,8.8,9,9.146,Yes,3,2,Not Placed,Yes,3
+Female,CSE,8.46,9.56,9.4,Yes,2,2,Placed,Yes,2
+Male,CSE,8.9,9.13,8.335,No,2,3,Not Placed,Yes,2
+Male,CSE,9.1,8.9,8.251,No,5,1,Not Placed,Yes,5
+Female,CSE,9.32,8.8,7.987,,1,4,Not Placed,Yes,1
+Female,CSE,8.6,8.4,8.268,Yes,4,1,Not Placed,Yes,4
+Male,CSE,7.89,9,7.968,No,,2,Not Placed,Yes,
+Male,CSE,9.87,8.54,9.4,Yes,1,0,Not Placed,Yes,1
+Female,CSE,9.79,9,9.311,No,2,2,Not Placed,Yes,2
+Female,CSE,9.41,9.17,8.267,No,2,3,Not Placed,Yes,2
+Female,CSE,9.12,8.6,9.331,Yes,2,2,Placed,Yes,2
+Female,IT,8.88,8.56,9.201,No,4,2,Placed,Yes,4
+Female,ECE,9.71,9.22,7.657,,2,,Not Placed,Yes,2
+Female,CSE,9.03,9.42,8.532,No,2,2,Not Placed,Yes,2
+Female,ECE,9.93,8.3,8.99,Yes,3,2,Placed,Yes,3
+Female,CIVIL,9.6,9,8.812,No,,2,Not Placed,Yes,
+Male,CSE,9.77,9.07,9.326,Yes,4,2,Placed,Yes,4
+Female,CSE,7.5,8.26,8.08,No,1,0,Not Placed,Yes,1
+Female,CSE,8.3,9.5,8.969,No,7,2,Placed,Yes,7
+Male,IT,9.95,9.1,8.88,No,3,4,Placed,Yes,3
+Male,CSE,9.37,8.32,8.293,,1,2,Not Placed,Yes,1
+Female,IT,8.14,9.25,8.175,No,3,3,Placed,Yes,3
+Female,CSE,9.2,8.84,7.975,Yes,1,2,Not Placed,Yes,1
+Male,CSE,9.13,8.2,8.244,No,2,3,Not Placed,Yes,2
+Male,IT,8.89,9.4,8.601,Yes,,2,Placed,Yes,
+Male,IT,9.08,9,8.841,No,3,3,Placed,Yes,3
+Male,CSE,9.72,9,9.025,No,1,3,Placed,Yes,1
+Female,CSE,9,8,9,No,2,3,Not Placed,Yes,2
+Female,CSE,9,8.8,8.773,No,4,0,Not Placed,Yes,4
+Female,MECHANICAL,7.77,9.37,7.66,No,2,1,Not Placed,Yes,2
+Female,CSE,8.65,8.6,8.731,Yes,2,2,Not Placed,Yes,2
+Female,MECHANICAL,8.22,9.01,8.431,No,1,0,Not Placed,Yes,1
+Female,CSE,9.89,8.5,8.821,Yes,3,2,Not Placed,Yes,3
+Male,CSE,9.82,9.5,8.21,No,,0,Not Placed,Yes,
+Female,CSE,8.68,9.4,8.663,No,,0,Not Placed,Yes,
+Female,CSE,8.61,8.01,9.4,No,5,1,Not Placed,Yes,5
+Female,CSE,9.1,6.63,8.724,No,2,3,Placed,Yes,2
+Male,CSE,7.87,8,8.378,Yes,0,2,Not Placed,No,0
+Female,CSE,9.43,9.57,7.365,No,1,,Not Placed,Yes,1
+Female,CSE,9.7,8.4,7.402,,4,1,Not Placed,Yes,4
+Female,CSE,6.6,8.5,8.645,No,3,4,Not Placed,Yes,3
+Female,CSE,9.65,8.9,9.379,No,0,3,Placed,No,0
+Female,CSE,9.52,9.45,9.224,No,3,2,Placed,Yes,3
+Female,CSE,8.05,9,7.346,No,2,0,Not Placed,Yes,2
+Male,CSE,9.5,8.9,8.507,No,2,,Placed,Yes,2
+Female,CSE,9.01,7,7.408,No,2,1,Placed,Yes,2
+Male,CSE,9.35,8.88,8.879,Yes,3,2,Placed,Yes,3
+Female,CSE,8.52,9.04,8.113,Yes,2,2,Placed,Yes,2
+Female,CSE,9.02,8.9,9.102,,2,3,Not Placed,Yes,2
+Female,EEE,8.45,7.89,6.705,No,1,0,Not Placed,Yes,1
+Male,CSE,9.35,8.6,7.959,,2,3,Placed,Yes,2
+Female,EEE,8.9,7.71,9.352,No,2,,Placed,Yes,2
+Female,CSE,7.9,8.92,8.55,Yes,2,2,Placed,Yes,2
+Female,IT,8.8,8,8.686,Yes,3,2,Placed,Yes,3
+Female,ECE,8.53,6.22,8.883,Yes,1,0,Not Placed,No,0
+Female,CSE,9.86,8.8,8.932,Yes,3,4,Placed,Yes,3
+Male,CSE,8.96,9,8.567,No,,,Not Placed,No,

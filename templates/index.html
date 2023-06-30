@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Campus Placement Prediction</title>
+	<link rel="stylesheet" href="/static/style.css" >
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Arvo&family=Chakra+Petch:wght@300&family=Exo:ital@1&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<h1>Campus Placement Prediction</h1>
+	<img class="image" src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif">
+		
+	<div class="input">
+		
+		<form action="/predict" method="post" enctype="multipart/form-data">
+			<div class="input_features">
+				<label for="gender">Gender: </label>
+				<select id="gender" name="gender" required>
+					<option value="0">Female</option>
+					<option value="1">Male</option>
+				</select>
+				<br><br>
+
+				<label for="branch"> Branch: </label>
+				<select id = "branch" name="branch" required="">
+					<option value="0">CIVIL</option>
+					<option value="1">CSE</option>
+					<option value="2">ECE</option>
+					<option value="3">EEE</option>
+					<option value="4">IT</option>
+					<option value="5">MECHANICAL</option>
+				</select>
+				<br><br>
+
+				<label for="ssc_cgpa">Enter SSC cgpa: </label>
+				<input type="number" id="ssc_cgpa" name="ssc_cgpa" step="0.01" min="0.00" max="10.00" required><br><br>
+
+				<label for="hsc_cgpa">Enter HSC cgpa: </label>
+				<input type="number" id="hsc_cgpa" name="hsc_cgpa" step="0.01" min="0.00" max="10.00" required><br><br>
+
+				<label for="ug_cgpa">Enter BTech cgpa: </label>
+				<input type="number" id="ug_cgpa" name="ug_cgpa" step="0.01" min="0.00" max="10.00" required><br><br>
+
+				<label for="workexp">Work Experience: </label>
+				<select id="workexp" name="workexp" required>
+					<option value="0">Yes</option>
+					<option value="1">No</option>
+				</select>
+				<br><br>
+
+				<label for="num_proj">Number of Projects Done: </label>
+				<input type="number" id="num_proj" name="num_proj"><br><br>
+
+				<label for="num_cert">Number of Global Certifications: </label>
+				<input type="number" id="num_cert" name="num_cert">
+				<p>Upload the pdf file which contains certificates.</p>
+				<input type="file" id="pdfFile" accept="application/pdf">
+    				<input type="button" value="Upload" onclick="displayFile()"> See below for uploaded file!
+				<br><br>
+
+				<label for="git_acc">Do you have a git hub account? </label>
+				<select id="git_acc" name="git_acc" required>
+					<option value="0">Yes</option>
+					<option value="1">No</option>
+				</select>
+				<br><br>
+
+				<label for="git_repo">Number of github repositories: </label>
+				<input type="number" id="git_repo" name="git_repo"><br><br>
+			</div>
+			<div class="pred_btn">
+				<input class = btn type="submit" value="Predict">
+			</div>
+		</form>
+	</div>
+
+	<iframe id="pdfViewer" style="width: 100%; height: 600px;"></iframe>
+
+  	<script>
+    	function displayFile() {
+      		var fileInput = document.getElementById('pdfFile');
+      		var file = fileInput.files[0];
+      
+      		if (file) {
+        		var reader = new FileReader();
+        		reader.onload = function(e) {
+          			var pdfData = e.target.result;
+          			var pdfViewer = document.getElementById('pdfViewer');
+          			pdfViewer.src = pdfData;
+        		};
+        		reader.readAsDataURL(file);
+      		}
+    	}
+  	</script>
+	
+</body>
+</html>
